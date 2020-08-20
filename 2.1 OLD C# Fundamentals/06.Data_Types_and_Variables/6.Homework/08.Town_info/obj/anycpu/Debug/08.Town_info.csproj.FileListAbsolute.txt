@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/08.Town_info/bin/Debug/08.Town_info.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/08.Town_info/bin/Debug/08.Town_info.pdb
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/08.Town_info/obj/anycpu/Debug/08.Town_info.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/08.Town_info/obj/anycpu/Debug/08.Town_info.pdb

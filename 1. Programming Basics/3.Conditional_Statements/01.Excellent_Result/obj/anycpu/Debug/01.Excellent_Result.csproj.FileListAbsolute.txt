@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/01.Excellent_Result/bin/Debug/01.Excellent_Result.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/01.Excellent_Result/bin/Debug/01.Excellent_Result.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/01.Excellent_Result/obj/anycpu/Debug/01.Excellent_Result.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/01.Excellent_Result/obj/anycpu/Debug/01.Excellent_Result.pdb

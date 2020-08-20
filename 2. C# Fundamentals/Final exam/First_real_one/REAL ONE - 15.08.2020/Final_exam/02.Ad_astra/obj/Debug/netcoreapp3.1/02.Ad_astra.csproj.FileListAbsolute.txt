@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/bin/Debug/netcoreapp3.1/02.Ad_astra.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/bin/Debug/netcoreapp3.1/02.Ad_astra.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/bin/Debug/netcoreapp3.1/02.Ad_astra.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/bin/Debug/netcoreapp3.1/02.Ad_astra.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/bin/Debug/netcoreapp3.1/02.Ad_astra.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/obj/Debug/netcoreapp3.1/02.Ad_astra.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/obj/Debug/netcoreapp3.1/02.Ad_astra.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/obj/Debug/netcoreapp3.1/02.Ad_astra.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/obj/Debug/netcoreapp3.1/02.Ad_astra.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/obj/Debug/netcoreapp3.1/02.Ad_astra.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/obj/Debug/netcoreapp3.1/02.Ad_astra.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/02.Ad_astra/obj/Debug/netcoreapp3.1/02.Ad_astra.genruntimeconfig.cache

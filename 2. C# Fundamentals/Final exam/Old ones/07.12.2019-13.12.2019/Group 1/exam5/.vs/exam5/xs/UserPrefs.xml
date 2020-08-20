@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{624E5831-8131-42DB-96E9-379BA2AED6FF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Inbox_manager/Program.cs">
+    <Files>
+      <File FileName="exam5/Program.cs" Line="22" Column="31" />
+      <File FileName="02.Registration/Program.cs" Line="21" Column="59" />
+      <File FileName="03.Inbox_manager/Program.cs" Line="55" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exam5" expanded="True">
+            <Node name="03.Inbox_manager" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.Email__validator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Inbox__manager PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.Registration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

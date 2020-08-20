@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/bin/Debug/netcoreapp3.1/05.Teamwork_Projects.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/bin/Debug/netcoreapp3.1/05.Teamwork_Projects.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/bin/Debug/netcoreapp3.1/05.Teamwork_Projects.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/bin/Debug/netcoreapp3.1/05.Teamwork_Projects.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/bin/Debug/netcoreapp3.1/05.Teamwork_Projects.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/obj/Debug/netcoreapp3.1/05.Teamwork_Projects.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/obj/Debug/netcoreapp3.1/05.Teamwork_Projects.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/obj/Debug/netcoreapp3.1/05.Teamwork_Projects.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/obj/Debug/netcoreapp3.1/05.Teamwork_Projects.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/obj/Debug/netcoreapp3.1/05.Teamwork_Projects.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/obj/Debug/netcoreapp3.1/05.Teamwork_Projects.genruntimeconfig.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/05.Teamwork_Projects/obj/Debug/netcoreapp3.1/05.Teamwork_Projects.csprojAssemblyReference.cache

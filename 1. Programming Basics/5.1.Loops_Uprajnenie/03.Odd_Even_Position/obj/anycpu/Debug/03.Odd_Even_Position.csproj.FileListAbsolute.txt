@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.1.Loops_Uprajnenie/03.Odd_Even_Position/bin/Debug/03.Odd_Even_Position.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.1.Loops_Uprajnenie/03.Odd_Even_Position/bin/Debug/03.Odd_Even_Position.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.1.Loops_Uprajnenie/03.Odd_Even_Position/obj/anycpu/Debug/03.Odd_Even_Position.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.1.Loops_Uprajnenie/03.Odd_Even_Position/obj/anycpu/Debug/03.Odd_Even_Position.pdb

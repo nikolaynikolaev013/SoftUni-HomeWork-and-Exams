@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/09.On_Time_For_The_Exam/bin/Debug/09.On_Time_For_The_Exam.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/09.On_Time_For_The_Exam/bin/Debug/09.On_Time_For_The_Exam.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/09.On_Time_For_The_Exam/obj/anycpu/Debug/09.On_Time_For_The_Exam.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/09.On_Time_For_The_Exam/obj/anycpu/Debug/09.On_Time_For_The_Exam.pdb

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EA1D45F0-DB53-4B7F-961B-E5F6D9258B06}|Default">
+  <MonoDevelop.Ide.ItemProperties.06.Vehicle__catalogue PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="07.Order_by_age/Program.cs">
+    <Files>
+      <File FileName="06.Vehicle_catalogue/Program.cs" Line="47" Column="43" />
+      <File FileName="07.Order_by_age/Program.cs" Line="18" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="20.Exercise_Objects_and_Classes" expanded="True">
+            <Node name="07.Order_by_age" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.Advertisement__Message PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Articles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.Teamwork__Projects PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.07.Order__by__age PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.03.Articles__2.0 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.04.Students PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

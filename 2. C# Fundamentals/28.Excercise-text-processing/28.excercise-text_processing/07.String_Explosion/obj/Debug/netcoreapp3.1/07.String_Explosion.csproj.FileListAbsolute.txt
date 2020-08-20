@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/bin/Debug/netcoreapp3.1/07.String_Explosion.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/bin/Debug/netcoreapp3.1/07.String_Explosion.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/bin/Debug/netcoreapp3.1/07.String_Explosion.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/bin/Debug/netcoreapp3.1/07.String_Explosion.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/bin/Debug/netcoreapp3.1/07.String_Explosion.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/obj/Debug/netcoreapp3.1/07.String_Explosion.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/obj/Debug/netcoreapp3.1/07.String_Explosion.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/obj/Debug/netcoreapp3.1/07.String_Explosion.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/obj/Debug/netcoreapp3.1/07.String_Explosion.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/obj/Debug/netcoreapp3.1/07.String_Explosion.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/obj/Debug/netcoreapp3.1/07.String_Explosion.genruntimeconfig.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/07.String_Explosion/obj/Debug/netcoreapp3.1/07.String_Explosion.csprojAssemblyReference.cache

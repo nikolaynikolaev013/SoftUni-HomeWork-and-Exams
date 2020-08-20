@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/02.Greater_Number/bin/Debug/02.Greater_Number.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/02.Greater_Number/bin/Debug/02.Greater_Number.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/02.Greater_Number/obj/anycpu/Debug/02.Greater_Number.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/02.Greater_Number/obj/anycpu/Debug/02.Greater_Number.pdb

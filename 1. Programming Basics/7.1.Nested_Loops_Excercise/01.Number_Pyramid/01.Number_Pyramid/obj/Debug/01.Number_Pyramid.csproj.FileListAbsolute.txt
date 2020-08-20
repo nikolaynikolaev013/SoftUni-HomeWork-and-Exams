@@ -1,0 +1,5 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/01.Number_Pyramid/bin/Debug/01.Number_Pyramid.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/01.Number_Pyramid/bin/Debug/01.Number_Pyramid.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/01.Number_Pyramid/obj/Debug/01.Number_Pyramid.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/01.Number_Pyramid/obj/Debug/01.Number_Pyramid.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/01.Number_Pyramid/obj/Debug/01.Number_Pyramid.pdb

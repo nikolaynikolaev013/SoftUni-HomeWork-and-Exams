@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/bin/Debug/netcoreapp3.1/11.Snow_balls.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/bin/Debug/netcoreapp3.1/11.Snow_balls.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/bin/Debug/netcoreapp3.1/11.Snow_balls.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/bin/Debug/netcoreapp3.1/11.Snow_balls.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/bin/Debug/netcoreapp3.1/11.Snow_balls.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/obj/Debug/netcoreapp3.1/11.Snow_balls.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/obj/Debug/netcoreapp3.1/11.Snow_balls.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/obj/Debug/netcoreapp3.1/11.Snow_balls.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/obj/Debug/netcoreapp3.1/11.Snow_balls.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/obj/Debug/netcoreapp3.1/11.Snow_balls.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/obj/Debug/netcoreapp3.1/11.Snow_balls.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/11.Snow_balls/obj/Debug/netcoreapp3.1/11.Snow_balls.genruntimeconfig.cache

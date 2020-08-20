@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/06.Graduation/bin/Debug/06.Graduation.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/06.Graduation/bin/Debug/06.Graduation.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/06.Graduation/obj/anycpu/Debug/06.Graduation.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/06.Graduation/obj/anycpu/Debug/06.Graduation.pdb

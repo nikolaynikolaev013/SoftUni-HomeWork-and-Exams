@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/07.Max_sequence_of_equal_elements/bin/Debug/netcoreapp3.1/07.Max_sequence_of_equal_elements.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/07.Max_sequence_of_equal_elements/bin/Debug/netcoreapp3.1/07.Max_sequence_of_equal_elements.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/07.Max_sequence_of_equal_elements/bin/Debug/netcoreapp3.1/07.Max_sequence_of_equal_elements.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/07.Max_sequence_of_equal_elements/bin/Debug/netcoreapp3.1/07.Max_sequence_of_equal_elements.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/07.Max_sequence_of_equal_elements/bin/Debug/netcoreapp3.1/07.Max_sequence_of_equal_elements.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/07.Max_sequence_of_equal_elements/obj/Debug/netcoreapp3.1/07.Max_sequence_of_equal_elements.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/07.Max_sequence_of_equal_elements/obj/Debug/netcoreapp3.1/07.Max_sequence_of_equal_elements.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/07.Max_sequence_of_equal_elements/obj/Debug/netcoreapp3.1/07.Max_sequence_of_equal_elements.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/07.Max_sequence_of_equal_elements/obj/Debug/netcoreapp3.1/07.Max_sequence_of_equal_elements.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/07.Max_sequence_of_equal_elements/obj/Debug/netcoreapp3.1/07.Max_sequence_of_equal_elements.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/07.Max_sequence_of_equal_elements/obj/Debug/netcoreapp3.1/07.Max_sequence_of_equal_elements.genruntimeconfig.cache

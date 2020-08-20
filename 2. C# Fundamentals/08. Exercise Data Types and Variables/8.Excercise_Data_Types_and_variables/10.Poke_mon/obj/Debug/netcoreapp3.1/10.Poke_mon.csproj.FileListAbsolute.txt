@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/bin/Debug/netcoreapp3.1/10.Poke_mon.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/bin/Debug/netcoreapp3.1/10.Poke_mon.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/bin/Debug/netcoreapp3.1/10.Poke_mon.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/bin/Debug/netcoreapp3.1/10.Poke_mon.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/bin/Debug/netcoreapp3.1/10.Poke_mon.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/obj/Debug/netcoreapp3.1/10.Poke_mon.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/obj/Debug/netcoreapp3.1/10.Poke_mon.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/obj/Debug/netcoreapp3.1/10.Poke_mon.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/obj/Debug/netcoreapp3.1/10.Poke_mon.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/obj/Debug/netcoreapp3.1/10.Poke_mon.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/obj/Debug/netcoreapp3.1/10.Poke_mon.genruntimeconfig.cache

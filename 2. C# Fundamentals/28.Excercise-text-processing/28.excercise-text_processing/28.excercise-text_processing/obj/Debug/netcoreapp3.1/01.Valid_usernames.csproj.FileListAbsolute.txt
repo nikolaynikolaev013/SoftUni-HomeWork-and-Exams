@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/bin/Debug/netcoreapp3.1/01.Valid_usernames.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/bin/Debug/netcoreapp3.1/01.Valid_usernames.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/bin/Debug/netcoreapp3.1/01.Valid_usernames.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/bin/Debug/netcoreapp3.1/01.Valid_usernames.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/bin/Debug/netcoreapp3.1/01.Valid_usernames.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/obj/Debug/netcoreapp3.1/01.Valid_usernames.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/obj/Debug/netcoreapp3.1/01.Valid_usernames.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/obj/Debug/netcoreapp3.1/01.Valid_usernames.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/obj/Debug/netcoreapp3.1/01.Valid_usernames.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/obj/Debug/netcoreapp3.1/01.Valid_usernames.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/obj/Debug/netcoreapp3.1/01.Valid_usernames.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/28.excercise-text_processing/obj/Debug/netcoreapp3.1/01.Valid_usernames.genruntimeconfig.cache

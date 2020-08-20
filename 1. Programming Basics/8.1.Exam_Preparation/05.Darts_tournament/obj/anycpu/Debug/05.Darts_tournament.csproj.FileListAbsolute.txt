@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/05.Darts_tournament/bin/Debug/05.Darts_tournament.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/05.Darts_tournament/bin/Debug/05.Darts_tournament.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/05.Darts_tournament/obj/anycpu/Debug/05.Darts_tournament.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/05.Darts_tournament/obj/anycpu/Debug/05.Darts_tournament.pdb

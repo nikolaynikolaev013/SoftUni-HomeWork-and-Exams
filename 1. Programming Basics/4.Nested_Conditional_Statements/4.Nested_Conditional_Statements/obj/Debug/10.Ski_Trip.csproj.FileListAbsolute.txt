@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.Nested_Conditional_Statements/bin/Debug/4.Nested_Conditional_Statements.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.Nested_Conditional_Statements/bin/Debug/4.Nested_Conditional_Statements.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.Nested_Conditional_Statements/obj/Debug/4.Nested_Conditional_Statements.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.Nested_Conditional_Statements/obj/Debug/4.Nested_Conditional_Statements.pdb

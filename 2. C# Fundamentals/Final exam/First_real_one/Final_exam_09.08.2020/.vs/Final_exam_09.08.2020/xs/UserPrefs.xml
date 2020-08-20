@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{81C4DC61-BF4E-4832-86F7-54D154D1BF42}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.World__tour PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Plant_discovery/Program.cs">
+    <Files>
+      <File FileName="Final_exam_09.08.2020/Program.cs" Line="13" Column="27" />
+      <File FileName="02.Destination_mapper/Program.cs" Line="33" Column="10" />
+      <File FileName="03.Plant_discovery/Program.cs" Line="12" Column="124" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final_exam_09.08.2020" expanded="True">
+            <Node name="02.Destination_mapper" expanded="True" />
+            <Node name="03.Plant_discovery" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02.Destination__mapper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.Plant__discovery FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

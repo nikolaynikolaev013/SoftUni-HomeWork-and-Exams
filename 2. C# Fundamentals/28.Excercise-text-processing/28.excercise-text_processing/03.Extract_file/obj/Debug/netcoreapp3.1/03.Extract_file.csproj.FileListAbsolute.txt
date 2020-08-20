@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/bin/Debug/netcoreapp3.1/03.Extract_file.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/bin/Debug/netcoreapp3.1/03.Extract_file.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/bin/Debug/netcoreapp3.1/03.Extract_file.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/bin/Debug/netcoreapp3.1/03.Extract_file.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/bin/Debug/netcoreapp3.1/03.Extract_file.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/obj/Debug/netcoreapp3.1/03.Extract_file.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/obj/Debug/netcoreapp3.1/03.Extract_file.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/obj/Debug/netcoreapp3.1/03.Extract_file.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/obj/Debug/netcoreapp3.1/03.Extract_file.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/obj/Debug/netcoreapp3.1/03.Extract_file.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/obj/Debug/netcoreapp3.1/03.Extract_file.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/03.Extract_file/obj/Debug/netcoreapp3.1/03.Extract_file.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/06.Fruit_or_vegetable/bin/Debug/06.Fruit_or_vegetable.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/06.Fruit_or_vegetable/bin/Debug/06.Fruit_or_vegetable.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/06.Fruit_or_vegetable/obj/anycpu/Debug/06.Fruit_or_vegetable.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/06.Fruit_or_vegetable/obj/anycpu/Debug/06.Fruit_or_vegetable.pdb

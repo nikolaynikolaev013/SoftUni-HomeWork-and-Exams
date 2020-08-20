@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/obj/Debug/netcoreapp3.1/tests.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/obj/Debug/netcoreapp3.1/tests.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/obj/Debug/netcoreapp3.1/tests.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/obj/Debug/netcoreapp3.1/tests.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/bin/Debug/netcoreapp3.1/tests.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/bin/Debug/netcoreapp3.1/tests.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/bin/Debug/netcoreapp3.1/tests.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/bin/Debug/netcoreapp3.1/tests.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/bin/Debug/netcoreapp3.1/tests.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/obj/Debug/netcoreapp3.1/tests.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/obj/Debug/netcoreapp3.1/tests.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/tests/obj/Debug/netcoreapp3.1/tests.genruntimeconfig.cache

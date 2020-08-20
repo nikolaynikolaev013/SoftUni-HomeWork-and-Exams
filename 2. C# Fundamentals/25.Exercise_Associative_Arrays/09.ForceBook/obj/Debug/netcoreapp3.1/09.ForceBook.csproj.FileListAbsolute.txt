@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/09.ForceBook/bin/Debug/netcoreapp3.1/09.ForceBook.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/09.ForceBook/bin/Debug/netcoreapp3.1/09.ForceBook.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/09.ForceBook/bin/Debug/netcoreapp3.1/09.ForceBook.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/09.ForceBook/bin/Debug/netcoreapp3.1/09.ForceBook.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/09.ForceBook/bin/Debug/netcoreapp3.1/09.ForceBook.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/09.ForceBook/obj/Debug/netcoreapp3.1/09.ForceBook.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/09.ForceBook/obj/Debug/netcoreapp3.1/09.ForceBook.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/09.ForceBook/obj/Debug/netcoreapp3.1/09.ForceBook.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/09.ForceBook/obj/Debug/netcoreapp3.1/09.ForceBook.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/09.ForceBook/obj/Debug/netcoreapp3.1/09.ForceBook.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/09.ForceBook/obj/Debug/netcoreapp3.1/09.ForceBook.genruntimeconfig.cache

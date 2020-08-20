@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/obj/Debug/netcoreapp3.1/01.Email_validator.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/obj/Debug/netcoreapp3.1/01.Email_validator.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/obj/Debug/netcoreapp3.1/01.Email_validator.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/obj/Debug/netcoreapp3.1/01.Email_validator.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/bin/Debug/netcoreapp3.1/01.Email_validator.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/bin/Debug/netcoreapp3.1/01.Email_validator.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/bin/Debug/netcoreapp3.1/01.Email_validator.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/bin/Debug/netcoreapp3.1/01.Email_validator.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/bin/Debug/netcoreapp3.1/01.Email_validator.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/obj/Debug/netcoreapp3.1/01.Email_validator.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/obj/Debug/netcoreapp3.1/01.Email_validator.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/exam5/obj/Debug/netcoreapp3.1/01.Email_validator.genruntimeconfig.cache

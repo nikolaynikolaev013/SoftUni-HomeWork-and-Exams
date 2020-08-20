@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/05.Add_and_substract/bin/Debug/netcoreapp3.1/05.Add_and_substract.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/05.Add_and_substract/bin/Debug/netcoreapp3.1/05.Add_and_substract.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/05.Add_and_substract/bin/Debug/netcoreapp3.1/05.Add_and_substract.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/05.Add_and_substract/bin/Debug/netcoreapp3.1/05.Add_and_substract.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/05.Add_and_substract/bin/Debug/netcoreapp3.1/05.Add_and_substract.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/05.Add_and_substract/obj/Debug/netcoreapp3.1/05.Add_and_substract.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/05.Add_and_substract/obj/Debug/netcoreapp3.1/05.Add_and_substract.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/05.Add_and_substract/obj/Debug/netcoreapp3.1/05.Add_and_substract.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/05.Add_and_substract/obj/Debug/netcoreapp3.1/05.Add_and_substract.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/05.Add_and_substract/obj/Debug/netcoreapp3.1/05.Add_and_substract.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/05.Add_and_substract/obj/Debug/netcoreapp3.1/05.Add_and_substract.genruntimeconfig.cache

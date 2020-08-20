@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/04.Even_Powers_of_2/bin/Debug/04.Even_Powers_of_2.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/04.Even_Powers_of_2/bin/Debug/04.Even_Powers_of_2.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/04.Even_Powers_of_2/obj/anycpu/Debug/04.Even_Powers_of_2.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/04.Even_Powers_of_2/obj/anycpu/Debug/04.Even_Powers_of_2.pdb

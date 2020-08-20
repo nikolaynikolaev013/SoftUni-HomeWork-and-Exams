@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/03.Vacation/bin/Debug/03.Vacation.exe
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/03.Vacation/bin/Debug/03.Vacation.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/03.Vacation/obj/anycpu/Debug/03.Vacation.exe
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/03.Vacation/obj/anycpu/Debug/03.Vacation.pdb

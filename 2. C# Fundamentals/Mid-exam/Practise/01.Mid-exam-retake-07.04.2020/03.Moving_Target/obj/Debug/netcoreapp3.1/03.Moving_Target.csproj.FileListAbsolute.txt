@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/bin/Debug/netcoreapp3.1/03.Moving_Target.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/bin/Debug/netcoreapp3.1/03.Moving_Target.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/bin/Debug/netcoreapp3.1/03.Moving_Target.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/bin/Debug/netcoreapp3.1/03.Moving_Target.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/bin/Debug/netcoreapp3.1/03.Moving_Target.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/obj/Debug/netcoreapp3.1/03.Moving_Target.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/obj/Debug/netcoreapp3.1/03.Moving_Target.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/obj/Debug/netcoreapp3.1/03.Moving_Target.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/obj/Debug/netcoreapp3.1/03.Moving_Target.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/obj/Debug/netcoreapp3.1/03.Moving_Target.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/obj/Debug/netcoreapp3.1/03.Moving_Target.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/03.Moving_Target/obj/Debug/netcoreapp3.1/03.Moving_Target.genruntimeconfig.cache

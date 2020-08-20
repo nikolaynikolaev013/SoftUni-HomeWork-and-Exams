@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/bin/Debug/netcoreapp3.1/02.Fancy_barcodes.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/bin/Debug/netcoreapp3.1/02.Fancy_barcodes.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/bin/Debug/netcoreapp3.1/02.Fancy_barcodes.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/bin/Debug/netcoreapp3.1/02.Fancy_barcodes.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/bin/Debug/netcoreapp3.1/02.Fancy_barcodes.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/obj/Debug/netcoreapp3.1/02.Fancy_barcodes.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/obj/Debug/netcoreapp3.1/02.Fancy_barcodes.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/obj/Debug/netcoreapp3.1/02.Fancy_barcodes.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/obj/Debug/netcoreapp3.1/02.Fancy_barcodes.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/obj/Debug/netcoreapp3.1/02.Fancy_barcodes.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/obj/Debug/netcoreapp3.1/02.Fancy_barcodes.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/02.Fancy_barcodes/obj/Debug/netcoreapp3.1/02.Fancy_barcodes.genruntimeconfig.cache

@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{C76B00CA-36F3-4ABD-BDC6-48C6BDF12CCE}|Default">
+  <MonoDevelop.Ide.ItemProperties.06.Courses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.A__Miner__task PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.Softuni__exam__results PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.Softuni_exam_results/Program.cs">
+    <Files>
+      <File FileName="25.Exercise_Associative_Arrays/Program.cs" Line="15" Column="14" />
+      <File FileName="02.A_Miner_task/Program.cs" />
+      <File FileName="03.Legendary_farming/Program.cs" />
+      <File FileName="04.Orders/Program.cs" />
+      <File FileName="05.Softuni_Parking/Program.cs" />
+      <File FileName="06.Courses/Program.cs" />
+      <File FileName="07.Student_academy/Program.cs" />
+      <File FileName="08.Company_users/Program.cs" />
+      <File FileName="09.ForceBook/Program.cs" />
+      <File FileName="10.Softuni_exam_results/Program.cs" Line="52" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="25.Exercise_Associative_Arrays" expanded="True">
+            <Node name="10.Softuni_exam_results" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.09.ForceBook PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.Student__academy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.08.Company__users PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Orders PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.03.Legendary__farming PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Count__Chars__in__a__String PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.Softuni__Parking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

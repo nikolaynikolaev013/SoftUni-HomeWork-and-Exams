@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/7/bin/Debug/7.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/7/bin/Debug/7.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/7/obj/anycpu/Debug/7.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/7/obj/anycpu/Debug/7.pdb

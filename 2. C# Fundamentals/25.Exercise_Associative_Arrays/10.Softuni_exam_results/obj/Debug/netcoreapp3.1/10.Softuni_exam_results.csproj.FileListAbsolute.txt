@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/10.Softuni_exam_results/bin/Debug/netcoreapp3.1/10.Softuni_exam_results.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/10.Softuni_exam_results/bin/Debug/netcoreapp3.1/10.Softuni_exam_results.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/10.Softuni_exam_results/bin/Debug/netcoreapp3.1/10.Softuni_exam_results.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/10.Softuni_exam_results/bin/Debug/netcoreapp3.1/10.Softuni_exam_results.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/10.Softuni_exam_results/bin/Debug/netcoreapp3.1/10.Softuni_exam_results.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/10.Softuni_exam_results/obj/Debug/netcoreapp3.1/10.Softuni_exam_results.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/10.Softuni_exam_results/obj/Debug/netcoreapp3.1/10.Softuni_exam_results.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/10.Softuni_exam_results/obj/Debug/netcoreapp3.1/10.Softuni_exam_results.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/10.Softuni_exam_results/obj/Debug/netcoreapp3.1/10.Softuni_exam_results.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/10.Softuni_exam_results/obj/Debug/netcoreapp3.1/10.Softuni_exam_results.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/10.Softuni_exam_results/obj/Debug/netcoreapp3.1/10.Softuni_exam_results.genruntimeconfig.cache

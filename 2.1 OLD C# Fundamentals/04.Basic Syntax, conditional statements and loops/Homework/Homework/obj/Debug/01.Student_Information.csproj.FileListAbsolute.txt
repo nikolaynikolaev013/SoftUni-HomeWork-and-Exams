@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/Homework/bin/Debug/Homework.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/Homework/bin/Debug/Homework.pdb
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/Homework/obj/Debug/Homework.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/Homework/obj/Debug/Homework.pdb

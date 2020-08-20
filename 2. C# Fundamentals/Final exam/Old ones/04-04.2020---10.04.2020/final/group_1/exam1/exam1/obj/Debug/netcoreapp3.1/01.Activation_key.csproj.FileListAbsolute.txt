@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/exam1/bin/Debug/netcoreapp3.1/01.Activation_key.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/exam1/bin/Debug/netcoreapp3.1/01.Activation_key.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/exam1/bin/Debug/netcoreapp3.1/01.Activation_key.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/exam1/bin/Debug/netcoreapp3.1/01.Activation_key.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/exam1/bin/Debug/netcoreapp3.1/01.Activation_key.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/exam1/obj/Debug/netcoreapp3.1/01.Activation_key.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/exam1/obj/Debug/netcoreapp3.1/01.Activation_key.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/exam1/obj/Debug/netcoreapp3.1/01.Activation_key.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/exam1/obj/Debug/netcoreapp3.1/01.Activation_key.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/exam1/obj/Debug/netcoreapp3.1/01.Activation_key.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/exam1/obj/Debug/netcoreapp3.1/01.Activation_key.genruntimeconfig.cache

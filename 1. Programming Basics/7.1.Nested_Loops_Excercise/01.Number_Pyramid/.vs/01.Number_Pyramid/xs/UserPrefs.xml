@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8A370548-20B4-4A39-B7EE-0570C6B3DE0B}|Default">
+  <MonoDevelop.Ide.ItemProperties.05.Password__Generator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Sum__Prime__Non__Prime PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Equal__Sums__Even__Odd__Position PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.Password_Generator/Program.cs">
+    <Files>
+      <File FileName="01.Number_Pyramid/Program.cs" Line="27" Column="10" />
+      <File FileName="02.Equal_Sums_Even_Odd_Position/Program.cs" />
+      <File FileName="03.Sum_Prime_Non_Prime/Program.cs" />
+      <File FileName="04.Train_The_Trainers/Program.cs" Line="28" Column="63" />
+      <File FileName="05.Password_Generator/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01.Number_Pyramid" expanded="True" selected="True">
+            <Node name="05.Password_Generator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.01.Number__Pyramid PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Train__The__Trainers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

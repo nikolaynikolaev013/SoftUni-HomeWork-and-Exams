@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/bin/Debug/netcoreapp3.1/03.Legendary_farming.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/bin/Debug/netcoreapp3.1/03.Legendary_farming.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/bin/Debug/netcoreapp3.1/03.Legendary_farming.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/bin/Debug/netcoreapp3.1/03.Legendary_farming.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/bin/Debug/netcoreapp3.1/03.Legendary_farming.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/obj/Debug/netcoreapp3.1/03.Legendary_farming.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/obj/Debug/netcoreapp3.1/03.Legendary_farming.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/obj/Debug/netcoreapp3.1/03.Legendary_farming.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/obj/Debug/netcoreapp3.1/03.Legendary_farming.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/obj/Debug/netcoreapp3.1/03.Legendary_farming.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/obj/Debug/netcoreapp3.1/03.Legendary_farming.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/03.Legendary_farming/obj/Debug/netcoreapp3.1/03.Legendary_farming.genruntimeconfig.cache

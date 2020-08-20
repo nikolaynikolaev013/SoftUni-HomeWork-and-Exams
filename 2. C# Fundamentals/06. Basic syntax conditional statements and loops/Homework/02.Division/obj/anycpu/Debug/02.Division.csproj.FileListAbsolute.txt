@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/02.Division/bin/Debug/02.Division.exe
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/02.Division/bin/Debug/02.Division.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/02.Division/obj/anycpu/Debug/02.Division.exe
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/02.Division/obj/anycpu/Debug/02.Division.pdb

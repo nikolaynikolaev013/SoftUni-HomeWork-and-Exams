@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/09.Left_and_right_sum/bin/Debug/09.Left_and_right_sum.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/09.Left_and_right_sum/bin/Debug/09.Left_and_right_sum.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/09.Left_and_right_sum/obj/anycpu/Debug/09.Left_and_right_sum.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/09.Left_and_right_sum/obj/anycpu/Debug/09.Left_and_right_sum.pdb

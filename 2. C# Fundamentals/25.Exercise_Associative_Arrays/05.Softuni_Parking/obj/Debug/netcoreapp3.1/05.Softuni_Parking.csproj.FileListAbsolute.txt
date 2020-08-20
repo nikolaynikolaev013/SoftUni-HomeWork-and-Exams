@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/05.Softuni_Parking/bin/Debug/netcoreapp3.1/05.Softuni_Parking.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/05.Softuni_Parking/bin/Debug/netcoreapp3.1/05.Softuni_Parking.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/05.Softuni_Parking/bin/Debug/netcoreapp3.1/05.Softuni_Parking.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/05.Softuni_Parking/bin/Debug/netcoreapp3.1/05.Softuni_Parking.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/05.Softuni_Parking/bin/Debug/netcoreapp3.1/05.Softuni_Parking.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/05.Softuni_Parking/obj/Debug/netcoreapp3.1/05.Softuni_Parking.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/05.Softuni_Parking/obj/Debug/netcoreapp3.1/05.Softuni_Parking.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/05.Softuni_Parking/obj/Debug/netcoreapp3.1/05.Softuni_Parking.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/05.Softuni_Parking/obj/Debug/netcoreapp3.1/05.Softuni_Parking.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/05.Softuni_Parking/obj/Debug/netcoreapp3.1/05.Softuni_Parking.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/05.Softuni_Parking/obj/Debug/netcoreapp3.1/05.Softuni_Parking.genruntimeconfig.cache

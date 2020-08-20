@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/bin/Debug/netcoreapp3.1/03.Numbers.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/bin/Debug/netcoreapp3.1/03.Numbers.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/bin/Debug/netcoreapp3.1/03.Numbers.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/bin/Debug/netcoreapp3.1/03.Numbers.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/bin/Debug/netcoreapp3.1/03.Numbers.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/03.Numbers/obj/Debug/netcoreapp3.1/03.Numbers.genruntimeconfig.cache

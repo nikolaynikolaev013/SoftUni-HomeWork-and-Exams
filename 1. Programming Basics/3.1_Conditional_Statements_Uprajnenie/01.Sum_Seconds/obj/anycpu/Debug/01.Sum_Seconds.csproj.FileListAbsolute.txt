@@ -1,0 +1,5 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/01.Sum_Seconds/bin/Debug/01.Sum_Seconds.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/01.Sum_Seconds/bin/Debug/01.Sum_Seconds.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/01.Sum_Seconds/obj/anycpu/Debug/01.Sum_Seconds.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/01.Sum_Seconds/obj/anycpu/Debug/01.Sum_Seconds.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/01.Sum_Seconds/obj/anycpu/Debug/01.Sum_Seconds.pdb

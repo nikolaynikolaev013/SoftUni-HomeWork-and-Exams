@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{1E694FE1-8A7B-4683-9558-54C734E4E3DD}|Default">
+  <MonoDevelop.Ide.ItemProperties.07.NxN__Matrix PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.Factorial__division PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Characters__in__range PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Password__validator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.Top__Number PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Smallest__of__three__numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Vowels__count PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Middle__characters PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="11.Array_Manipulator/Program.cs">
+    <Files>
+      <File FileName="09.Palindrome_numbers/Program.cs" Line="41" Column="1" />
+      <File FileName="10.Top_Number/Program.cs" Line="36" Column="14" />
+      <File FileName="11.Array_Manipulator/Program.cs" Line="185" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="14.Methods_excercise" expanded="True">
+            <Node name="09.Palindrome_numbers" selected="True" />
+            <Node name="11.Array_Manipulator" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.05.Add__and__substract PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/Program.cs" relfile="11.Array_Manipulator/Program.cs" line="176" column="1" />
+      <Breakpoint file="/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/Program.cs" relfile="11.Array_Manipulator/Program.cs" line="84" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.09.Palindrome__numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11.Array__Manipulator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/bin/Debug/netcoreapp3.1/exam4.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/bin/Debug/netcoreapp3.1/exam4.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/bin/Debug/netcoreapp3.1/exam4.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/bin/Debug/netcoreapp3.1/exam4.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/bin/Debug/netcoreapp3.1/exam4.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/obj/Debug/netcoreapp3.1/exam4.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/obj/Debug/netcoreapp3.1/exam4.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/obj/Debug/netcoreapp3.1/exam4.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/obj/Debug/netcoreapp3.1/exam4.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/obj/Debug/netcoreapp3.1/exam4.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/obj/Debug/netcoreapp3.1/exam4.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/exam4/obj/Debug/netcoreapp3.1/exam4.genruntimeconfig.cache

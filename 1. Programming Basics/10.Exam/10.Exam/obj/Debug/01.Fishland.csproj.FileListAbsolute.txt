@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/10.Exam/bin/Debug/10.Exam.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/10.Exam/bin/Debug/10.Exam.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/10.Exam/obj/Debug/10.Exam.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/10.Exam/obj/Debug/10.Exam.pdb

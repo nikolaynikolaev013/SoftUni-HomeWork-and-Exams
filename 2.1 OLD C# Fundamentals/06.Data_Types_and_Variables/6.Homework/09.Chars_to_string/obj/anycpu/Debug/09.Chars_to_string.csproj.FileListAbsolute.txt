@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/09.Chars_to_string/bin/Debug/09.Chars_to_string.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/09.Chars_to_string/bin/Debug/09.Chars_to_string.pdb
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/09.Chars_to_string/obj/anycpu/Debug/09.Chars_to_string.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/09.Chars_to_string/obj/anycpu/Debug/09.Chars_to_string.pdb

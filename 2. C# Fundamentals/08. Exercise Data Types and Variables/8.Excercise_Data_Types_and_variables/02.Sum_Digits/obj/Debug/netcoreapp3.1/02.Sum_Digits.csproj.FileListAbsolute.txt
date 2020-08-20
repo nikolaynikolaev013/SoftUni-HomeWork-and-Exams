@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/bin/Debug/netcoreapp3.1/02.Sum_Digits.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/bin/Debug/netcoreapp3.1/02.Sum_Digits.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/bin/Debug/netcoreapp3.1/02.Sum_Digits.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/bin/Debug/netcoreapp3.1/02.Sum_Digits.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/bin/Debug/netcoreapp3.1/02.Sum_Digits.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/obj/Debug/netcoreapp3.1/02.Sum_Digits.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/obj/Debug/netcoreapp3.1/02.Sum_Digits.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/obj/Debug/netcoreapp3.1/02.Sum_Digits.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/obj/Debug/netcoreapp3.1/02.Sum_Digits.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/obj/Debug/netcoreapp3.1/02.Sum_Digits.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/obj/Debug/netcoreapp3.1/02.Sum_Digits.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/02.Sum_Digits/obj/Debug/netcoreapp3.1/02.Sum_Digits.genruntimeconfig.cache

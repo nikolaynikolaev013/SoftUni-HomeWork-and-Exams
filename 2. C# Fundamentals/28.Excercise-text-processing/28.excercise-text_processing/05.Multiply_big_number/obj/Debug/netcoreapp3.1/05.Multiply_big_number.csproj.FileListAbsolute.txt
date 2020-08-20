@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/bin/Debug/netcoreapp3.1/05.Multiply_big_number.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/bin/Debug/netcoreapp3.1/05.Multiply_big_number.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/bin/Debug/netcoreapp3.1/05.Multiply_big_number.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/bin/Debug/netcoreapp3.1/05.Multiply_big_number.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/bin/Debug/netcoreapp3.1/05.Multiply_big_number.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/obj/Debug/netcoreapp3.1/05.Multiply_big_number.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/obj/Debug/netcoreapp3.1/05.Multiply_big_number.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/obj/Debug/netcoreapp3.1/05.Multiply_big_number.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/obj/Debug/netcoreapp3.1/05.Multiply_big_number.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/obj/Debug/netcoreapp3.1/05.Multiply_big_number.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/obj/Debug/netcoreapp3.1/05.Multiply_big_number.genruntimeconfig.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/05.Multiply_big_number/obj/Debug/netcoreapp3.1/05.Multiply_big_number.csprojAssemblyReference.cache

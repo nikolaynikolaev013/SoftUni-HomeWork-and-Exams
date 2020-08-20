@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/11.Multiplication_table_2.0/bin/Debug/11.Multiplication_table_2.0.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/11.Multiplication_table_2.0/bin/Debug/11.Multiplication_table_2.0.pdb
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/11.Multiplication_table_2.0/obj/anycpu/Debug/11.Multiplication_table_2.0.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/11.Multiplication_table_2.0/obj/anycpu/Debug/11.Multiplication_table_2.0.pdb

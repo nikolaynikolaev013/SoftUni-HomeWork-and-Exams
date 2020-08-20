@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/04.Star_Enigma/bin/Debug/netcoreapp3.1/04.Star_Enigma.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/04.Star_Enigma/bin/Debug/netcoreapp3.1/04.Star_Enigma.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/04.Star_Enigma/bin/Debug/netcoreapp3.1/04.Star_Enigma.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/04.Star_Enigma/bin/Debug/netcoreapp3.1/04.Star_Enigma.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/04.Star_Enigma/bin/Debug/netcoreapp3.1/04.Star_Enigma.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/04.Star_Enigma/obj/Debug/netcoreapp3.1/04.Star_Enigma.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/04.Star_Enigma/obj/Debug/netcoreapp3.1/04.Star_Enigma.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/04.Star_Enigma/obj/Debug/netcoreapp3.1/04.Star_Enigma.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/04.Star_Enigma/obj/Debug/netcoreapp3.1/04.Star_Enigma.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/04.Star_Enigma/obj/Debug/netcoreapp3.1/04.Star_Enigma.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/04.Star_Enigma/obj/Debug/netcoreapp3.1/04.Star_Enigma.genruntimeconfig.cache

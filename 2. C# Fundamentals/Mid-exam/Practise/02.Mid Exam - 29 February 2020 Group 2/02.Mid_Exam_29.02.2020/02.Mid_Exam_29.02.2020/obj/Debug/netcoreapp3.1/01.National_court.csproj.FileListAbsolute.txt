@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/bin/Debug/netcoreapp3.1/01.National_court.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/bin/Debug/netcoreapp3.1/01.National_court.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/bin/Debug/netcoreapp3.1/01.National_court.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/bin/Debug/netcoreapp3.1/01.National_court.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/bin/Debug/netcoreapp3.1/01.National_court.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/obj/Debug/netcoreapp3.1/01.National_court.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/obj/Debug/netcoreapp3.1/01.National_court.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/obj/Debug/netcoreapp3.1/01.National_court.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/obj/Debug/netcoreapp3.1/01.National_court.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/obj/Debug/netcoreapp3.1/01.National_court.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/obj/Debug/netcoreapp3.1/01.National_court.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/02.Mid_Exam_29.02.2020/obj/Debug/netcoreapp3.1/01.National_court.genruntimeconfig.cache

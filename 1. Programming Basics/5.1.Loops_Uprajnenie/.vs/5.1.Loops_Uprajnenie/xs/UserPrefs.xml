@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{8C8F5052-CC6E-4AE1-8494-0BD8E97CBB38}|Default">
+  <MonoDevelop.Ide.ItemProperties.06.Salary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.Histogram/Program.cs">
+    <Files>
+      <File FileName="5.1.Loops_Uprajnenie/Program.cs" Line="13" Column="41" />
+      <File FileName="02.Half_sum_element/Program.cs" />
+      <File FileName="03.Odd_Even_Position/Program.cs" />
+      <File FileName="04.Histogram/Program.cs" Line="23" Column="1" />
+      <File FileName="05.Devide_without_reminder/Program.cs" Line="29" Column="17" />
+      <File FileName="06.Salary/Program.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="5.1.Loops_Uprajnenie" expanded="True">
+            <Node name="04.Histogram" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02.Half__sum__element PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/08.Scholarship/Program.cs" line="25" column="0" endLine="0" endColumn="0" offsetX="-1" offsetY="-1" expression="socialResultAmount" liveUpdate="False" />
+    <Watch file="../../../../../SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/08.Scholarship/Program.cs" line="20" column="0" endLine="0" endColumn="0" offsetX="-1" offsetY="-1" expression="excellentResultAmount" liveUpdate="False" />
+    <Watch file="../../../../../SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/08.Scholarship/Program.cs" line="25" column="0" endLine="0" endColumn="0" offsetX="-1" offsetY="-1" expression="socialResultAmount" liveUpdate="False" />
+    <Watch file="../../../06.Salary/Program.cs" line="17" column="20" endLine="17" endColumn="24" offsetX="-1" offsetY="-1" expression="temp" liveUpdate="False" />
+    <Watch file="../../../04.Histogram/Program.cs" line="20" column="16" endLine="20" endColumn="20" offsetX="-1" offsetY="-1" expression="temp" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.05.Devide__without__reminder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.04.Histogram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.1.Loops_Uprajnenie/04.Histogram/Program.cs" relfile="04.Histogram/Program.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.01.Numbers__Ending__in__7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.03.Odd__Even__Position PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/bin/Debug/netcoreapp3.1/03.Nikulden_meals.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/bin/Debug/netcoreapp3.1/03.Nikulden_meals.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/bin/Debug/netcoreapp3.1/03.Nikulden_meals.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/bin/Debug/netcoreapp3.1/03.Nikulden_meals.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/bin/Debug/netcoreapp3.1/03.Nikulden_meals.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/obj/Debug/netcoreapp3.1/03.Nikulden_meals.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/obj/Debug/netcoreapp3.1/03.Nikulden_meals.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/obj/Debug/netcoreapp3.1/03.Nikulden_meals.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/obj/Debug/netcoreapp3.1/03.Nikulden_meals.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/obj/Debug/netcoreapp3.1/03.Nikulden_meals.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/obj/Debug/netcoreapp3.1/03.Nikulden_meals.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/obj/Debug/netcoreapp3.1/03.Nikulden_meals.genruntimeconfig.cache

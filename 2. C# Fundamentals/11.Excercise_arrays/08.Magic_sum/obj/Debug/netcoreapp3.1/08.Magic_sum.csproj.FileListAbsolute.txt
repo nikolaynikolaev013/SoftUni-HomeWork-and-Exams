@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/08.Magic_sum/bin/Debug/netcoreapp3.1/08.Magic_sum.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/08.Magic_sum/bin/Debug/netcoreapp3.1/08.Magic_sum.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/08.Magic_sum/bin/Debug/netcoreapp3.1/08.Magic_sum.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/08.Magic_sum/bin/Debug/netcoreapp3.1/08.Magic_sum.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/08.Magic_sum/bin/Debug/netcoreapp3.1/08.Magic_sum.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/08.Magic_sum/obj/Debug/netcoreapp3.1/08.Magic_sum.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/08.Magic_sum/obj/Debug/netcoreapp3.1/08.Magic_sum.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/08.Magic_sum/obj/Debug/netcoreapp3.1/08.Magic_sum.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/08.Magic_sum/obj/Debug/netcoreapp3.1/08.Magic_sum.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/08.Magic_sum/obj/Debug/netcoreapp3.1/08.Magic_sum.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/08.Magic_sum/obj/Debug/netcoreapp3.1/08.Magic_sum.genruntimeconfig.cache

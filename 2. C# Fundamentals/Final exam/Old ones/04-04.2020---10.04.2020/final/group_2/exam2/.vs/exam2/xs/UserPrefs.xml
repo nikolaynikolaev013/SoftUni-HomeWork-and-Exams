@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4F31AC4B-2401-4E76-BAB4-C8272DADDA1B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Heroes_of_Code_and_Logic_VII/Program.cs">
+    <Files>
+      <File FileName="exam2/Program.cs" Line="55" Column="10" />
+      <File FileName="02.Fancy_barcodes/Program.cs" Line="11" Column="84" />
+      <File FileName="03.Heroes_of_Code_and_Logic_VII/Program.cs" Line="114" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exam2" expanded="True">
+            <Node name="01.Password_reset" expanded="True" />
+            <Node name="03.Heroes_of_Code_and_Logic_VII" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.Password__reset PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.Fancy__barcodes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.03.Heroes__of__Code__and__Logic__VII PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{C08500E8-B510-43B1-9458-E1B5B91D76B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.common__elements PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Zig-zag-arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Train PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.Ladybugs/Program.cs">
+    <Files>
+      <File FileName="07.Max_sequence_of_equal_elements/Program.cs" Line="14" Column="1" />
+      <File FileName="09_Kamino_factory/Program.cs" />
+      <File FileName="10.Ladybugs/Program.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="11.Excercise_arrays" expanded="True">
+            <Node name="10.Ladybugs" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.04.Array__Rotation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/10.Poke_mon/Program.cs" line="24" column="29" endLine="24" endColumn="30" offsetX="-1" offsetY="-1" expression="y" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.05.Top__integers PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>09.Kamino_Factory/09.Kamino_Factory.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.09__Kamino__factory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.10.Ladybugs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.Magic__sum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Equal__sum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.07.Max__sequence__of__equal__elements PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E540D1F5-64C2-4D32-A5E8-2FD0FADCE7A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.05.Darts__tournament PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Summer__Shopping PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Baking__Competition PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Savings PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.Baking_Competition/Program.cs">
+    <Files>
+      <File FileName="8.1.Exam_Preparation/Program.cs" Line="14" Column="24" />
+      <File FileName="02.Summer_Shopping/Program.cs" />
+      <File FileName="03.Cruise_Ship/Program.cs" />
+      <File FileName="04.Cruise_Games/Program.cs" />
+      <File FileName="05.Darts_tournament/Program.cs" Line="44" Column="14" />
+      <File FileName="06.Baking_Competition/Program.cs" Line="41" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="8.1.Exam_Preparation" expanded="True">
+            <Node name="06.Baking_Competition" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.04.Cruise__Games PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.03.Cruise__Ship PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

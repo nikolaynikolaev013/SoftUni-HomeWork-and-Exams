@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/07.Invalid_number/bin/Debug/07.Invalid_number.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/07.Invalid_number/bin/Debug/07.Invalid_number.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/07.Invalid_number/obj/anycpu/Debug/07.Invalid_number.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/07.Invalid_number/obj/anycpu/Debug/07.Invalid_number.pdb

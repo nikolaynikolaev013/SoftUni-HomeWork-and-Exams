@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{59282AA6-7932-41C9-9D60-F623106353AE}|Default">
+  <MonoDevelop.Ide.ItemProperties.7.Yard__Greening PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.6.PetShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2.Concatenate__Data PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4.Inches__To__CM PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="8.Fish_Tank/Program.cs">
+    <Files>
+      <File FileName="6.PetShop/Program.cs" Line="12" Column="79" />
+      <File FileName="7.Yard_Greening/Program.cs" Line="11" Column="36" />
+      <File FileName="8.Fish_Tank/Program.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2.Simple_operations_and_calculations__Lab" expanded="True">
+            <Node name="8.Fish_Tank" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.8.Fish__Tank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.5.Projects__Creation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.Greeting__By__Name PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3.Square__Area PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

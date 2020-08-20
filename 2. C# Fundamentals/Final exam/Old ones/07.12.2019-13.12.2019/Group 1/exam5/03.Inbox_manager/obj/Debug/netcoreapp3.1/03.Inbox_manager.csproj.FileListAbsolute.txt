@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/bin/Debug/netcoreapp3.1/03.Inbox_manager.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/bin/Debug/netcoreapp3.1/03.Inbox_manager.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/bin/Debug/netcoreapp3.1/03.Inbox_manager.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/bin/Debug/netcoreapp3.1/03.Inbox_manager.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/bin/Debug/netcoreapp3.1/03.Inbox_manager.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/obj/Debug/netcoreapp3.1/03.Inbox_manager.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/obj/Debug/netcoreapp3.1/03.Inbox_manager.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/obj/Debug/netcoreapp3.1/03.Inbox_manager.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/obj/Debug/netcoreapp3.1/03.Inbox_manager.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/obj/Debug/netcoreapp3.1/03.Inbox_manager.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/obj/Debug/netcoreapp3.1/03.Inbox_manager.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/03.Inbox_manager/obj/Debug/netcoreapp3.1/03.Inbox_manager.genruntimeconfig.cache

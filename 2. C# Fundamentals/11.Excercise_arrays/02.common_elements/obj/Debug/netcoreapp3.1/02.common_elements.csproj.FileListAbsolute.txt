@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/bin/Debug/netcoreapp3.1/02.common_elements.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/bin/Debug/netcoreapp3.1/02.common_elements.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/bin/Debug/netcoreapp3.1/02.common_elements.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/bin/Debug/netcoreapp3.1/02.common_elements.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/bin/Debug/netcoreapp3.1/02.common_elements.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/obj/Debug/netcoreapp3.1/02.common_elements.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/obj/Debug/netcoreapp3.1/02.common_elements.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/obj/Debug/netcoreapp3.1/02.common_elements.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/obj/Debug/netcoreapp3.1/02.common_elements.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/obj/Debug/netcoreapp3.1/02.common_elements.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/obj/Debug/netcoreapp3.1/02.common_elements.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/02.common_elements/obj/Debug/netcoreapp3.1/02.common_elements.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/8.1.Exam_Preparation/bin/Debug/8.1.Exam_Preparation.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/8.1.Exam_Preparation/bin/Debug/8.1.Exam_Preparation.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/8.1.Exam_Preparation/obj/Debug/01.Savings.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/8.1.Exam_Preparation/obj/Debug/8.1.Exam_Preparation.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/8.1.Exam_Preparation/obj/Debug/8.1.Exam_Preparation.pdb

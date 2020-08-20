@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/bin/Debug/netcoreapp3.1/01.Warriors_quest.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/bin/Debug/netcoreapp3.1/01.Warriors_quest.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/bin/Debug/netcoreapp3.1/01.Warriors_quest.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/bin/Debug/netcoreapp3.1/01.Warriors_quest.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/bin/Debug/netcoreapp3.1/01.Warriors_quest.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/obj/Debug/netcoreapp3.1/01.Warriors_quest.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/obj/Debug/netcoreapp3.1/01.Warriors_quest.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/obj/Debug/netcoreapp3.1/01.Warriors_quest.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/obj/Debug/netcoreapp3.1/01.Warriors_quest.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/obj/Debug/netcoreapp3.1/01.Warriors_quest.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/obj/Debug/netcoreapp3.1/01.Warriors_quest.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/obj/Debug/netcoreapp3.1/01.Warriors_quest.genruntimeconfig.cache

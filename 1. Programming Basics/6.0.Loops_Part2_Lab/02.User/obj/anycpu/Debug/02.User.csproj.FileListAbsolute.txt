@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/02.User/bin/Debug/02.User.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/02.User/bin/Debug/02.User.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/02.User/obj/anycpu/Debug/02.User.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/02.User/obj/anycpu/Debug/02.User.pdb

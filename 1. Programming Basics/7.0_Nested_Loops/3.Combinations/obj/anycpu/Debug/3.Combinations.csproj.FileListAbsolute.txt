@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/3.Combinations/bin/Debug/3.Combinations.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/3.Combinations/bin/Debug/3.Combinations.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/3.Combinations/obj/anycpu/Debug/3.Combinations.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/3.Combinations/obj/anycpu/Debug/3.Combinations.pdb

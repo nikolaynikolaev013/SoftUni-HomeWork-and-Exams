@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/05.Coins/bin/Debug/05.Coins.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/05.Coins/bin/Debug/05.Coins.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/05.Coins/obj/anycpu/Debug/05.Coins.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/05.Coins/obj/anycpu/Debug/05.Coins.pdb

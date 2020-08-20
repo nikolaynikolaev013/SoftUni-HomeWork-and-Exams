@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/bin/Debug/netcoreapp3.1/03.Characters_in_range.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/bin/Debug/netcoreapp3.1/03.Characters_in_range.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/bin/Debug/netcoreapp3.1/03.Characters_in_range.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/bin/Debug/netcoreapp3.1/03.Characters_in_range.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/bin/Debug/netcoreapp3.1/03.Characters_in_range.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/obj/Debug/netcoreapp3.1/03.Characters_in_range.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/obj/Debug/netcoreapp3.1/03.Characters_in_range.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/obj/Debug/netcoreapp3.1/03.Characters_in_range.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/obj/Debug/netcoreapp3.1/03.Characters_in_range.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/obj/Debug/netcoreapp3.1/03.Characters_in_range.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/obj/Debug/netcoreapp3.1/03.Characters_in_range.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/03.Characters_in_range/obj/Debug/netcoreapp3.1/03.Characters_in_range.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/bin/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/bin/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/bin/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/bin/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/bin/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/obj/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/obj/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/obj/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/obj/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/obj/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/obj/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/25.Exercise_Associative_Arrays/obj/Debug/netcoreapp3.1/1.Count_Chars_in_a_String.genruntimeconfig.cache

@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{A7509983-7FCA-4096-AE30-2BFC4C0E8E37}|Default">
+  <MonoDevelop.Ide.ItemProperties.08.Triangle__of__numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.09.Padawan__Equipment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Vacation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.Rage_Expenses/Program.cs">
+    <Files>
+      <File FileName="Homework/Program.cs" Line="29" Column="41" />
+      <File FileName="02.Division/Program.cs" Line="30" Column="25" />
+      <File FileName="03.Vacation/Program.cs" Line="33" Column="62" />
+      <File FileName="04.Print_and_sum/Program.cs" Line="11" Column="1" />
+      <File FileName="05.Login/Program.cs" Line="17" Column="33" />
+      <File FileName="06.Stong_Number/Program.cs" Line="14" Column="29" />
+      <File FileName="07.Vending_Machine/Program.cs" Line="14" Column="30" />
+      <File FileName="08.Triangle_of_numbers/Program.cs" Line="18" Column="14" />
+      <File FileName="09.Padawan_Equipment/Program.cs" Line="16" Column="38" />
+      <File FileName="10.Rage_Expenses/Program.cs" Line="36" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework" expanded="True">
+            <Node name="10.Rage_Expenses" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.07.Vending__Machine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.Login PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Stong__Number PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.02.Division PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.01.Ages PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.Rage__Expenses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Print__and__sum PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

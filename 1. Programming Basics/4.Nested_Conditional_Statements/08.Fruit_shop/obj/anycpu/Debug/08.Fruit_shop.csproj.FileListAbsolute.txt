@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/08.Fruit_shop/bin/Debug/08.Fruit_shop.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/08.Fruit_shop/bin/Debug/08.Fruit_shop.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/08.Fruit_shop/obj/anycpu/Debug/08.Fruit_shop.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/08.Fruit_shop/obj/anycpu/Debug/08.Fruit_shop.pdb

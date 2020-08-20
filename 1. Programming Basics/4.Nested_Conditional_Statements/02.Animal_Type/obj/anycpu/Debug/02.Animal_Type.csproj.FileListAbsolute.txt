@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/02.Animal_Type/bin/Debug/02.Animal_Type.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/02.Animal_Type/bin/Debug/02.Animal_Type.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/02.Animal_Type/obj/anycpu/Debug/02.Animal_Type.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/02.Animal_Type/obj/anycpu/Debug/02.Animal_Type.pdb

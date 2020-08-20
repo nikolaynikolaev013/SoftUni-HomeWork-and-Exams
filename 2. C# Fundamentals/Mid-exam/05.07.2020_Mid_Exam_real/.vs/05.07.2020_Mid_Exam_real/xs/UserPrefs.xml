@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{56C71E5C-C239-4F27-A278-6A98540F206C}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.Array__Modifier PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Softuni__Reception PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Numbers/Program.cs">
+    <Files>
+      <File FileName="05.07.2020_Mid_Exam_real/Program.cs" Line="30" Column="44" />
+      <File FileName="02.Array_Modifier/Program.cs" Line="30" Column="37" />
+      <File FileName="03.Numbers/Program.cs" Line="44" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="05.07.2020_Mid_Exam_real" expanded="True">
+            <Node name="03.Numbers" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/10.Voleyball/bin/Debug/10.Voleyball.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/10.Voleyball/bin/Debug/10.Voleyball.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/10.Voleyball/obj/anycpu/Debug/10.Voleyball.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/10.Voleyball/obj/anycpu/Debug/10.Voleyball.pdb

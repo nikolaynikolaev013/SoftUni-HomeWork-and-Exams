@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/bin/Debug/netcoreapp3.1/03.Elevator.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/bin/Debug/netcoreapp3.1/03.Elevator.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/bin/Debug/netcoreapp3.1/03.Elevator.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/bin/Debug/netcoreapp3.1/03.Elevator.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/bin/Debug/netcoreapp3.1/03.Elevator.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/obj/Debug/netcoreapp3.1/03.Elevator.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/obj/Debug/netcoreapp3.1/03.Elevator.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/obj/Debug/netcoreapp3.1/03.Elevator.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/obj/Debug/netcoreapp3.1/03.Elevator.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/obj/Debug/netcoreapp3.1/03.Elevator.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/obj/Debug/netcoreapp3.1/03.Elevator.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/03.Elevator/obj/Debug/netcoreapp3.1/03.Elevator.genruntimeconfig.cache

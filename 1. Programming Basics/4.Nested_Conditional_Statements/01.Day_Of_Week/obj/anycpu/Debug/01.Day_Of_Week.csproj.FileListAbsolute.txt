@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/01.Day_Of_Week/bin/Debug/01.Day_Of_Week.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/01.Day_Of_Week/bin/Debug/01.Day_Of_Week.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/01.Day_Of_Week/obj/anycpu/Debug/01.Day_Of_Week.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/01.Day_Of_Week/obj/anycpu/Debug/01.Day_Of_Week.pdb

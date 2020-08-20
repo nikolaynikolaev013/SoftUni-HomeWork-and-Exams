@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/bin/Debug/netcoreapp3.1/03.Hero_recruiment.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/bin/Debug/netcoreapp3.1/03.Hero_recruiment.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/bin/Debug/netcoreapp3.1/03.Hero_recruiment.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/bin/Debug/netcoreapp3.1/03.Hero_recruiment.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/bin/Debug/netcoreapp3.1/03.Hero_recruiment.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/obj/Debug/netcoreapp3.1/03.Hero_recruiment.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/obj/Debug/netcoreapp3.1/03.Hero_recruiment.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/obj/Debug/netcoreapp3.1/03.Hero_recruiment.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/obj/Debug/netcoreapp3.1/03.Hero_recruiment.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/obj/Debug/netcoreapp3.1/03.Hero_recruiment.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/obj/Debug/netcoreapp3.1/03.Hero_recruiment.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/03.Hero_recruiment/obj/Debug/netcoreapp3.1/03.Hero_recruiment.genruntimeconfig.cache

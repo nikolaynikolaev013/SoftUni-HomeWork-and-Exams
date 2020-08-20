@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/02.Summer_Shopping/bin/Debug/02.Summer_Shopping.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/02.Summer_Shopping/bin/Debug/02.Summer_Shopping.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/02.Summer_Shopping/obj/anycpu/Debug/02.Summer_Shopping.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/02.Summer_Shopping/obj/anycpu/Debug/02.Summer_Shopping.pdb

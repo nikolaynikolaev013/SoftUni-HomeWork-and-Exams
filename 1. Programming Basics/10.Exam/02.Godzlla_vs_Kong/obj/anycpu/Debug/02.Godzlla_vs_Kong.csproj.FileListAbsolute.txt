@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/02.Godzlla_vs_Kong/bin/Debug/02.Godzlla_vs_Kong.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/02.Godzlla_vs_Kong/bin/Debug/02.Godzlla_vs_Kong.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/02.Godzlla_vs_Kong/obj/anycpu/Debug/02.Godzlla_vs_Kong.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/02.Godzlla_vs_Kong/obj/anycpu/Debug/02.Godzlla_vs_Kong.pdb

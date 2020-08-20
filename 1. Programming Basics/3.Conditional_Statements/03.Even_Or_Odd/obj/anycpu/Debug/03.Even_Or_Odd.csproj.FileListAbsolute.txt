@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/03.Even_Or_Odd/bin/Debug/03.Even_Or_Odd.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/03.Even_Or_Odd/bin/Debug/03.Even_Or_Odd.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/03.Even_Or_Odd/obj/anycpu/Debug/03.Even_Or_Odd.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/03.Even_Or_Odd/obj/anycpu/Debug/03.Even_Or_Odd.pdb

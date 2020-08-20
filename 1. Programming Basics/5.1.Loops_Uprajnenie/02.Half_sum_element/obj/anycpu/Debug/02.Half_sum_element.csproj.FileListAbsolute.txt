@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.1.Loops_Uprajnenie/02.Half_sum_element/bin/Debug/02.Half_sum_element.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.1.Loops_Uprajnenie/02.Half_sum_element/bin/Debug/02.Half_sum_element.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.1.Loops_Uprajnenie/02.Half_sum_element/obj/anycpu/Debug/02.Half_sum_element.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.1.Loops_Uprajnenie/02.Half_sum_element/obj/anycpu/Debug/02.Half_sum_element.pdb

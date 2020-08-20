@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/exam2/obj/Debug/netcoreapp3.1/exam2.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/exam2/obj/Debug/netcoreapp3.1/exam2.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/exam2/obj/Debug/netcoreapp3.1/exam2.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_2/exam2/exam2/obj/Debug/netcoreapp3.1/exam2.csproj.CoreCompileInputs.cache

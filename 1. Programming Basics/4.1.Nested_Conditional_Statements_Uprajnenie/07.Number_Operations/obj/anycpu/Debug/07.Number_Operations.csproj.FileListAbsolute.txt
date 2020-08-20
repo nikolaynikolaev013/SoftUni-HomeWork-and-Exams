@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/07.Number_Operations/bin/Debug/07.Number_Operations.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/07.Number_Operations/bin/Debug/07.Number_Operations.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/07.Number_Operations/obj/anycpu/Debug/07.Number_Operations.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/07.Number_Operations/obj/anycpu/Debug/07.Number_Operations.pdb

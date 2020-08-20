@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/10.Ladybugs/bin/Debug/netcoreapp3.1/10.Ladybugs.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/10.Ladybugs/bin/Debug/netcoreapp3.1/10.Ladybugs.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/10.Ladybugs/bin/Debug/netcoreapp3.1/10.Ladybugs.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/10.Ladybugs/bin/Debug/netcoreapp3.1/10.Ladybugs.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/10.Ladybugs/bin/Debug/netcoreapp3.1/10.Ladybugs.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/10.Ladybugs/obj/Debug/netcoreapp3.1/10.Ladybugs.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/10.Ladybugs/obj/Debug/netcoreapp3.1/10.Ladybugs.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/10.Ladybugs/obj/Debug/netcoreapp3.1/10.Ladybugs.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/10.Ladybugs/obj/Debug/netcoreapp3.1/10.Ladybugs.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/10.Ladybugs/obj/Debug/netcoreapp3.1/10.Ladybugs.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/10.Ladybugs/obj/Debug/netcoreapp3.1/10.Ladybugs.genruntimeconfig.cache

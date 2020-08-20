@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/bin/Debug/netcoreapp3.1/03.Articles_2.0.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/bin/Debug/netcoreapp3.1/03.Articles_2.0.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/bin/Debug/netcoreapp3.1/03.Articles_2.0.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/bin/Debug/netcoreapp3.1/03.Articles_2.0.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/bin/Debug/netcoreapp3.1/03.Articles_2.0.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/obj/Debug/netcoreapp3.1/03.Articles_2.0.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/obj/Debug/netcoreapp3.1/03.Articles_2.0.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/obj/Debug/netcoreapp3.1/03.Articles_2.0.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/obj/Debug/netcoreapp3.1/03.Articles_2.0.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/obj/Debug/netcoreapp3.1/03.Articles_2.0.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/obj/Debug/netcoreapp3.1/03.Articles_2.0.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/03.Articles_2.0/obj/Debug/netcoreapp3.1/03.Articles_2.0.genruntimeconfig.cache

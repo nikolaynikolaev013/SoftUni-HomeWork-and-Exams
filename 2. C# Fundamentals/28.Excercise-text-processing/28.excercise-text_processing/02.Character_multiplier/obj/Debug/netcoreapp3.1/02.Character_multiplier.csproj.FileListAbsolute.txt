@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/bin/Debug/netcoreapp3.1/02.Character_multiplier.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/bin/Debug/netcoreapp3.1/02.Character_multiplier.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/bin/Debug/netcoreapp3.1/02.Character_multiplier.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/bin/Debug/netcoreapp3.1/02.Character_multiplier.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/bin/Debug/netcoreapp3.1/02.Character_multiplier.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/obj/Debug/netcoreapp3.1/02.Character_multiplier.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/obj/Debug/netcoreapp3.1/02.Character_multiplier.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/obj/Debug/netcoreapp3.1/02.Character_multiplier.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/obj/Debug/netcoreapp3.1/02.Character_multiplier.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/obj/Debug/netcoreapp3.1/02.Character_multiplier.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/obj/Debug/netcoreapp3.1/02.Character_multiplier.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/02.Character_multiplier/obj/Debug/netcoreapp3.1/02.Character_multiplier.genruntimeconfig.cache

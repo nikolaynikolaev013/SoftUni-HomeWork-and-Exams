@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/6.PetShop/bin/Debug/6.PetShop.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/6.PetShop/bin/Debug/6.PetShop.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/6.PetShop/obj/anycpu/Debug/6.PetShop.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/6.PetShop/obj/anycpu/Debug/6.PetShop.pdb

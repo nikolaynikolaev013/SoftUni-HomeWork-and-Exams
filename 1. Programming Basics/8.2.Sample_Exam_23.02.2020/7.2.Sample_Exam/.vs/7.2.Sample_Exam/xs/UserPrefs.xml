@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E885943B-D64A-483B-A339-086B5512E013}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.Space__Ship PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Sushi__Time PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Bus PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.Multiply_Table/Program.cs">
+    <Files>
+      <File FileName="7.2.Sample_Exam/Program.cs" Line="18" Column="51" />
+      <File FileName="02.Space_Ship/Program.cs" Line="30" Column="14" />
+      <File FileName="03.Sushi_Time/Program.cs" Line="101" Column="1" />
+      <File FileName="04.Bus/Program.cs" Line="24" Column="18" />
+      <File FileName="05.Bachelor_Party/Program.cs" Line="41" Column="82" />
+      <File FileName="06.Multiply_Table/Program.cs" Line="14" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="7.2.Sample_Exam" expanded="True">
+            <Node name="06.Multiply_Table" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05.Bachelor__Party PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Sea__Trip PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.06.Multiply__Table PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

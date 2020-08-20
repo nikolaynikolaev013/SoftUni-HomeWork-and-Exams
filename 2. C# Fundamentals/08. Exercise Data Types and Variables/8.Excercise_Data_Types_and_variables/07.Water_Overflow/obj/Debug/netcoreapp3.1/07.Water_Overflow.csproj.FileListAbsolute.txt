@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/07.Water_Overflow/bin/Debug/netcoreapp3.1/07.Water_Overflow.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/07.Water_Overflow/bin/Debug/netcoreapp3.1/07.Water_Overflow.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/07.Water_Overflow/bin/Debug/netcoreapp3.1/07.Water_Overflow.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/07.Water_Overflow/bin/Debug/netcoreapp3.1/07.Water_Overflow.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/07.Water_Overflow/bin/Debug/netcoreapp3.1/07.Water_Overflow.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/07.Water_Overflow/obj/Debug/netcoreapp3.1/07.Water_Overflow.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/07.Water_Overflow/obj/Debug/netcoreapp3.1/07.Water_Overflow.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/07.Water_Overflow/obj/Debug/netcoreapp3.1/07.Water_Overflow.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/07.Water_Overflow/obj/Debug/netcoreapp3.1/07.Water_Overflow.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/07.Water_Overflow/obj/Debug/netcoreapp3.1/07.Water_Overflow.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/07.Water_Overflow/obj/Debug/netcoreapp3.1/07.Water_Overflow.genruntimeconfig.cache

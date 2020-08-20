@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/6.1.Loops_Part2_Excercise/bin/Debug/6.1.Loops_Part2_Excercise.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/6.1.Loops_Part2_Excercise/bin/Debug/6.1.Loops_Part2_Excercise.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/6.1.Loops_Part2_Excercise/obj/Debug/6.1.Loops_Part2_Excercise.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/6.1.Loops_Part2_Excercise/obj/Debug/6.1.Loops_Part2_Excercise.pdb

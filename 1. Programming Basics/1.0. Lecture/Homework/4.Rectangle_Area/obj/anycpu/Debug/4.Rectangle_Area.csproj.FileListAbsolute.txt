@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/Lecture 1/Homework/4.Rectangle_Area/bin/Debug/4.Rectangle_Area.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/Lecture 1/Homework/4.Rectangle_Area/bin/Debug/4.Rectangle_Area.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/Lecture 1/Homework/4.Rectangle_Area/obj/anycpu/Debug/4.Rectangle_Area.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/Lecture 1/Homework/4.Rectangle_Area/obj/anycpu/Debug/4.Rectangle_Area.pdb

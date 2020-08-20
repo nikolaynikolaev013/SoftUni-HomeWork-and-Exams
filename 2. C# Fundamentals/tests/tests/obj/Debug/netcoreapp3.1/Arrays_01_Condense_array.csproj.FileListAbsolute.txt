@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/bin/Debug/netcoreapp3.1/Arrays_01_Condense_array.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/bin/Debug/netcoreapp3.1/Arrays_01_Condense_array.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/bin/Debug/netcoreapp3.1/Arrays_01_Condense_array.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/bin/Debug/netcoreapp3.1/Arrays_01_Condense_array.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/bin/Debug/netcoreapp3.1/Arrays_01_Condense_array.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/obj/Debug/netcoreapp3.1/Arrays_01_Condense_array.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/obj/Debug/netcoreapp3.1/Arrays_01_Condense_array.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/obj/Debug/netcoreapp3.1/Arrays_01_Condense_array.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/obj/Debug/netcoreapp3.1/Arrays_01_Condense_array.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/obj/Debug/netcoreapp3.1/Arrays_01_Condense_array.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/obj/Debug/netcoreapp3.1/Arrays_01_Condense_array.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/tests/tests/obj/Debug/netcoreapp3.1/Arrays_01_Condense_array.genruntimeconfig.cache

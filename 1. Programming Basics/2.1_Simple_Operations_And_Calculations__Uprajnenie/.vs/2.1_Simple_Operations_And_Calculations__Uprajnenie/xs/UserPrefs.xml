@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7007DD97-D33D-4455-B22A-85FA03BC9D79}|Default">
+  <MonoDevelop.Ide.ItemProperties.5.Dance__Hall PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="3.2d_Rectangle_Area/Program.cs">
+    <Files>
+      <File FileName="2.1_Simple_Operations_And_Calculations__Uprajnenie/Program.cs" Line="14" Column="2" />
+      <File FileName="2.Radians_To_Degrees/Program.cs" Line="14" Column="2" />
+      <File FileName="3.2d_Rectangle_Area/Program.cs" Line="14" Column="26" />
+      <File FileName="4.Tailoring_Workshop/Program.cs" />
+      <File FileName="5.Dance_Hall/Program.cs" Line="19" Column="49" />
+      <File FileName="6.Charity_Campaign/Program.cs" />
+      <File FileName="7.Alcohol_Market/Program.cs" Line="20" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2.1_Simple_Operations_And_Calculations__Uprajnenie" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.6.Charity__Campaign PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.7.Alcohol__Market PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.2.Radians__To__Degrees PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.4.Tailoring__Workshop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.USD__To__BGN PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3.2d__Rectangle__Area PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/bin/Debug/netcoreapp3.1/01.Counter-Strike.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/bin/Debug/netcoreapp3.1/01.Counter-Strike.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/bin/Debug/netcoreapp3.1/01.Counter-Strike.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/bin/Debug/netcoreapp3.1/01.Counter-Strike.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/bin/Debug/netcoreapp3.1/01.Counter-Strike.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/obj/Debug/netcoreapp3.1/01.Counter-Strike.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/obj/Debug/netcoreapp3.1/01.Counter-Strike.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/obj/Debug/netcoreapp3.1/01.Counter-Strike.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/obj/Debug/netcoreapp3.1/01.Counter-Strike.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/obj/Debug/netcoreapp3.1/01.Counter-Strike.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/obj/Debug/netcoreapp3.1/01.Counter-Strike.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/01.Mid-exam-retake-07.04.2020/obj/Debug/netcoreapp3.1/01.Counter-Strike.genruntimeconfig.cache

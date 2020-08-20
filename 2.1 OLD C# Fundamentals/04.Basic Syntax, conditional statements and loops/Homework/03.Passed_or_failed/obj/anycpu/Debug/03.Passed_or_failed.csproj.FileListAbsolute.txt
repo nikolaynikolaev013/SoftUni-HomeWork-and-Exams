@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/03.Passed_or_failed/bin/Debug/03.Passed_or_failed.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/03.Passed_or_failed/bin/Debug/03.Passed_or_failed.pdb
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/03.Passed_or_failed/obj/anycpu/Debug/03.Passed_or_failed.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/03.Passed_or_failed/obj/anycpu/Debug/03.Passed_or_failed.pdb

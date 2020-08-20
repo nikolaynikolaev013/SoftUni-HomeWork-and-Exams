@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{78FD1AE3-F149-44F8-BF85-7C920D4FA5B1}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.Message__translator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Nikulden_meals/Program.cs">
+    <Files>
+      <File FileName="exam4/Program.cs" Line="42" Column="52" />
+      <File FileName="02.Message_translator/Program.cs" Line="26" Column="1" />
+      <File FileName="03.Nikulden_meals/Program.cs" Line="35" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exam4" expanded="True">
+            <Node name="03.Nikulden_meals" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.Nikuldens__charity PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.Nikulden__meals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/03.Nikulden_meals/Program.cs" relfile="03.Nikulden_meals/Program.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

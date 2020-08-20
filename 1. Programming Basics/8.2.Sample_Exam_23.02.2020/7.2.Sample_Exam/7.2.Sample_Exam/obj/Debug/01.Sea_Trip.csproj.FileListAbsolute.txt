@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/7.2.Sample_Exam/bin/Debug/7.2.Sample_Exam.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/7.2.Sample_Exam/bin/Debug/7.2.Sample_Exam.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/7.2.Sample_Exam/obj/Debug/7.2.Sample_Exam.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/7.2.Sample_Exam/obj/Debug/7.2.Sample_Exam.pdb

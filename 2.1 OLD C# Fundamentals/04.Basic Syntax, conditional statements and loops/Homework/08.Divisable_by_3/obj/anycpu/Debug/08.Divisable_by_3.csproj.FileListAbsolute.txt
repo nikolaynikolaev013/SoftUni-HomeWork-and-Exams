@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/08.Divisable_by_3/bin/Debug/08.Divisable_by_3.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/08.Divisable_by_3/bin/Debug/08.Divisable_by_3.pdb
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/08.Divisable_by_3/obj/anycpu/Debug/08.Divisable_by_3.exe
+/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/08.Divisable_by_3/obj/anycpu/Debug/08.Divisable_by_3.pdb

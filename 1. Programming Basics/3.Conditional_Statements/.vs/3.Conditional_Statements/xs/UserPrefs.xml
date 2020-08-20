@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{31310693-1E85-4D1E-A75B-B6FD8EBD08C3}|Default">
+  <MonoDevelop.Ide.ItemProperties.07.Area__Of__Figures FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Greater__Number PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.Toy__Shop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="07.Area_Of_Figures/Program.cs">
+    <Files>
+      <File FileName="3.Conditional_Statements/Program.cs" Line="35" Column="89" />
+      <File FileName="01.Excellent_Result/Program.cs" />
+      <File FileName="02.Greater_Number/Program.cs" />
+      <File FileName="03.Even_Or_Odd/Program.cs" />
+      <File FileName="04.Number_1_9/Program.cs" />
+      <File FileName="05.Number_100_200/Program.cs" />
+      <File FileName="06.Password_Guess/Program.cs" />
+      <File FileName="07.Area_Of_Figures/Program.cs" Line="26" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3.Conditional_Statements" expanded="True">
+            <Node name="07.Area_Of_Figures" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05.Number__100__200 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.06.Password__Guess PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Number__1__9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.01.Excellent__Result PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Even__Or__Odd PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

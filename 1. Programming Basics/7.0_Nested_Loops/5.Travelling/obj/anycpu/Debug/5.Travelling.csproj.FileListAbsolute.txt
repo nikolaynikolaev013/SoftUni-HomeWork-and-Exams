@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/5.Travelling/bin/Debug/5.Travelling.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/5.Travelling/bin/Debug/5.Travelling.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/5.Travelling/obj/anycpu/Debug/5.Travelling.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.0_Nested_Loops/5.Travelling/obj/anycpu/Debug/5.Travelling.pdb

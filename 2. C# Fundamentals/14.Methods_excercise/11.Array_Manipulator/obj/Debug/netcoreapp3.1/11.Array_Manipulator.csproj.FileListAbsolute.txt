@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/obj/Debug/netcoreapp3.1/11.Array_Manipulator.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/obj/Debug/netcoreapp3.1/11.Array_Manipulator.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/obj/Debug/netcoreapp3.1/11.Array_Manipulator.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/bin/Debug/netcoreapp3.1/11.Array_Manipulator.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/bin/Debug/netcoreapp3.1/11.Array_Manipulator.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/bin/Debug/netcoreapp3.1/11.Array_Manipulator.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/bin/Debug/netcoreapp3.1/11.Array_Manipulator.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/bin/Debug/netcoreapp3.1/11.Array_Manipulator.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/obj/Debug/netcoreapp3.1/11.Array_Manipulator.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/obj/Debug/netcoreapp3.1/11.Array_Manipulator.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/11.Array_Manipulator/obj/Debug/netcoreapp3.1/11.Array_Manipulator.genruntimeconfig.cache

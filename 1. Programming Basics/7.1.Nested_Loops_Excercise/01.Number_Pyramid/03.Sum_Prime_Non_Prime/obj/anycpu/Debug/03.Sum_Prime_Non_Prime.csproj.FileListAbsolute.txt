@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/03.Sum_Prime_Non_Prime/bin/Debug/03.Sum_Prime_Non_Prime.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/03.Sum_Prime_Non_Prime/bin/Debug/03.Sum_Prime_Non_Prime.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/03.Sum_Prime_Non_Prime/obj/anycpu/Debug/03.Sum_Prime_Non_Prime.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/03.Sum_Prime_Non_Prime/obj/anycpu/Debug/03.Sum_Prime_Non_Prime.pdb

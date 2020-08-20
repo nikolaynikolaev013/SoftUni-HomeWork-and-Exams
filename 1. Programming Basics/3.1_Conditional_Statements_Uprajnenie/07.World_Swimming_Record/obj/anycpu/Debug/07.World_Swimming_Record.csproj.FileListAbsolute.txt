@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/07.World_Swimming_Record/bin/Debug/07.World_Swimming_Record.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/07.World_Swimming_Record/bin/Debug/07.World_Swimming_Record.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/07.World_Swimming_Record/obj/anycpu/Debug/07.World_Swimming_Record.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/07.World_Swimming_Record/obj/anycpu/Debug/07.World_Swimming_Record.pdb

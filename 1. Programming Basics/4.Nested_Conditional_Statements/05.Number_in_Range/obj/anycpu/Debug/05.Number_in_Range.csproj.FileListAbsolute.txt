@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/05.Number_in_Range/bin/Debug/05.Number_in_Range.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/05.Number_in_Range/bin/Debug/05.Number_in_Range.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/05.Number_in_Range/obj/anycpu/Debug/05.Number_in_Range.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/05.Number_in_Range/obj/anycpu/Debug/05.Number_in_Range.pdb

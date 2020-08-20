@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/bin/Debug/netcoreapp3.1/02.Shoot_for_the_win.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/bin/Debug/netcoreapp3.1/02.Shoot_for_the_win.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/bin/Debug/netcoreapp3.1/02.Shoot_for_the_win.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/bin/Debug/netcoreapp3.1/02.Shoot_for_the_win.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/bin/Debug/netcoreapp3.1/02.Shoot_for_the_win.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/obj/Debug/netcoreapp3.1/02.Shoot_for_the_win.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/obj/Debug/netcoreapp3.1/02.Shoot_for_the_win.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/obj/Debug/netcoreapp3.1/02.Shoot_for_the_win.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/obj/Debug/netcoreapp3.1/02.Shoot_for_the_win.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/obj/Debug/netcoreapp3.1/02.Shoot_for_the_win.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/obj/Debug/netcoreapp3.1/02.Shoot_for_the_win.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/01.Mid-exam-retake-07.04.2020/02.Shoot_for_the_win/obj/Debug/netcoreapp3.1/02.Shoot_for_the_win.genruntimeconfig.cache

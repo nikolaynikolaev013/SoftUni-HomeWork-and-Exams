@@ -1,0 +1,5 @@
+/Users/nikolaynikolaev/Projects/2.Simple_operations_and_calculations__Lab/1.Greeting_By_Name/bin/Debug/1.Greeting_By_Name.exe
+/Users/nikolaynikolaev/Projects/2.Simple_operations_and_calculations__Lab/1.Greeting_By_Name/bin/Debug/1.Greeting_By_Name.pdb
+/Users/nikolaynikolaev/Projects/2.Simple_operations_and_calculations__Lab/1.Greeting_By_Name/obj/anycpu/Debug/1.Greeting_By_Name.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/Projects/2.Simple_operations_and_calculations__Lab/1.Greeting_By_Name/obj/anycpu/Debug/1.Greeting_By_Name.exe
+/Users/nikolaynikolaev/Projects/2.Simple_operations_and_calculations__Lab/1.Greeting_By_Name/obj/anycpu/Debug/1.Greeting_By_Name.pdb

@@ -1,0 +1,5 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/08.Scholarship/bin/Debug/08.Scholarship.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/08.Scholarship/bin/Debug/08.Scholarship.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/08.Scholarship/obj/anycpu/Debug/08.Scholarship.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/08.Scholarship/obj/anycpu/Debug/08.Scholarship.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/08.Scholarship/obj/anycpu/Debug/08.Scholarship.csprojAssemblyReference.cache

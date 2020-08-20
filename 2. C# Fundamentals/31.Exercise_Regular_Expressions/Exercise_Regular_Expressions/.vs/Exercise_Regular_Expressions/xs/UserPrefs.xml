@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{32BF09A9-84A9-4E76-AF72-390B35B497CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.04.Star__Enigma PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Extract__emails FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.Extract_emails/Program.cs">
+    <Files>
+      <File FileName="Exercise_Regular_Expressions/Program.cs" Line="17" Column="46" />
+      <File FileName="02.Race/Program.cs" Line="32" Column="25" />
+      <File FileName="03.SoftUni_Bar_Income/Program.cs" Line="10" Column="103" />
+      <File FileName="04.Star_Enigma/Program.cs" Line="57" Column="43" />
+      <File FileName="06.Extract_emails/Program.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exercise_Regular_Expressions" expanded="True">
+            <Node name="06.Extract_emails" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.Furniture PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.SoftUni__Bar__Income PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Race PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

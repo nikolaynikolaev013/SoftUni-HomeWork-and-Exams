@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/08.Hotel_Room/bin/Debug/08.Hotel_Room.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/08.Hotel_Room/bin/Debug/08.Hotel_Room.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/08.Hotel_Room/obj/anycpu/Debug/08.Hotel_Room.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/08.Hotel_Room/obj/anycpu/Debug/08.Hotel_Room.pdb

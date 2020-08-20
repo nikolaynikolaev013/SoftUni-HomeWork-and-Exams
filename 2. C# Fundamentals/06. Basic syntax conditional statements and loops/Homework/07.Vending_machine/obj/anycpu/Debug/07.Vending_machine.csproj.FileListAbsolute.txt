@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/07.Vending_machine/bin/Debug/07.Vending_machine.exe
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/07.Vending_machine/bin/Debug/07.Vending_machine.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/07.Vending_machine/obj/anycpu/Debug/07.Vending_machine.exe
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/07.Vending_machine/obj/anycpu/Debug/07.Vending_machine.pdb

@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/07.Order_by_age/bin/Debug/netcoreapp3.1/07.Order_by_age.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/07.Order_by_age/bin/Debug/netcoreapp3.1/07.Order_by_age.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/07.Order_by_age/bin/Debug/netcoreapp3.1/07.Order_by_age.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/07.Order_by_age/bin/Debug/netcoreapp3.1/07.Order_by_age.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/07.Order_by_age/bin/Debug/netcoreapp3.1/07.Order_by_age.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/07.Order_by_age/obj/Debug/netcoreapp3.1/07.Order_by_age.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/07.Order_by_age/obj/Debug/netcoreapp3.1/07.Order_by_age.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/07.Order_by_age/obj/Debug/netcoreapp3.1/07.Order_by_age.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/07.Order_by_age/obj/Debug/netcoreapp3.1/07.Order_by_age.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/07.Order_by_age/obj/Debug/netcoreapp3.1/07.Order_by_age.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/07.Order_by_age/obj/Debug/netcoreapp3.1/07.Order_by_age.genruntimeconfig.cache

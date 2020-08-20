@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/10.Top_Number/obj/Debug/netcoreapp3.1/10.Top_Number.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/10.Top_Number/obj/Debug/netcoreapp3.1/10.Top_Number.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/10.Top_Number/obj/Debug/netcoreapp3.1/10.Top_Number.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/10.Top_Number/bin/Debug/netcoreapp3.1/10.Top_Number.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/10.Top_Number/bin/Debug/netcoreapp3.1/10.Top_Number.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/10.Top_Number/bin/Debug/netcoreapp3.1/10.Top_Number.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/10.Top_Number/bin/Debug/netcoreapp3.1/10.Top_Number.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/10.Top_Number/bin/Debug/netcoreapp3.1/10.Top_Number.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/10.Top_Number/obj/Debug/netcoreapp3.1/10.Top_Number.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/10.Top_Number/obj/Debug/netcoreapp3.1/10.Top_Number.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/10.Top_Number/obj/Debug/netcoreapp3.1/10.Top_Number.genruntimeconfig.cache

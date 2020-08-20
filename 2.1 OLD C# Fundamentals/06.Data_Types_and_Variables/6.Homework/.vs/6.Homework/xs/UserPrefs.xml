@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{D84565D4-4E05-4D3B-BE03-B09F40706518}|Default">
+  <MonoDevelop.Ide.ItemProperties.04.Centures__to__minutes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Pounds__to__dollars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.Town__info PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Meters__to__km PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.Concat__names PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="12.Refactor_Special_Numbers/Program.cs">
+    <Files>
+      <File FileName="6.Homework/Program.cs" Line="10" Column="1" />
+      <File FileName="02.Pounds_to_dollars/Program.cs" Line="15" Column="1" />
+      <File FileName="03.Exact_sum_to_real_numbers/Program.cs" Line="20" Column="27" />
+      <File FileName="04.Centures_to_minutes/Program.cs" Line="15" Column="76" />
+      <File FileName="05.Special_Numbers/Program.cs" Line="13" Column="33" />
+      <File FileName="06.ReversedChars/Program.cs" Line="16" Column="6" />
+      <File FileName="07.Concat_names/Program.cs" Line="13" Column="50" />
+      <File FileName="08.Town_info/Program.cs" Line="13" Column="109" />
+      <File FileName="09.Chars_to_string/Program.cs" Line="10" Column="1" />
+      <File FileName="10.Lower_or_upper/Program.cs" Line="17" Column="46" />
+      <File FileName="11.Refactor_Volume_of_Pyramid/Program.cs" Line="18" Column="20" />
+      <File FileName="12.Refactor_Special_Numbers/Program.cs" Line="14" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="6.Homework" expanded="True">
+            <Node name="12.Refactor_Special_Numbers" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.09.Chars__to__string PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.ReversedChars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.Special__Numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.11.Refactor__Volume__of__Pyramid FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Exact__sum__to__real__numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.Lower__or__upper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12.Refactor__Special__Numbers PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

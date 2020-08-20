@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E2C960FB-3D32-48AD-BDDD-C0F1EEAAB36F}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.Shopping__list PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.Mid_Exam_29.02.2020/Program.cs">
+    <Files>
+      <File FileName="02.Mid_Exam_29.02.2020/Program.cs" Line="23" Column="36" />
+      <File FileName="02.Shopping_list/Program.cs" />
+      <File FileName="03.Heart_delivery/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="02.Mid_Exam_29.02.2020" expanded="True">
+            <Node name="01.National_court" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.Heart__delivery PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.National__court PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/02.Mid Exam - 29 February 2020 Group 2/02.Mid_Exam_29.02.2020/03.Heart_delivery/Program.cs" relfile="03.Heart_delivery/Program.cs" line="53" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

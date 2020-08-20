@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/bin/Debug/netcoreapp3.1/08.Factorial_division.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/bin/Debug/netcoreapp3.1/08.Factorial_division.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/bin/Debug/netcoreapp3.1/08.Factorial_division.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/bin/Debug/netcoreapp3.1/08.Factorial_division.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/bin/Debug/netcoreapp3.1/08.Factorial_division.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/obj/Debug/netcoreapp3.1/08.Factorial_division.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/obj/Debug/netcoreapp3.1/08.Factorial_division.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/obj/Debug/netcoreapp3.1/08.Factorial_division.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/obj/Debug/netcoreapp3.1/08.Factorial_division.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/obj/Debug/netcoreapp3.1/08.Factorial_division.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/obj/Debug/netcoreapp3.1/08.Factorial_division.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/08.Factorial_division/obj/Debug/netcoreapp3.1/08.Factorial_division.genruntimeconfig.cache

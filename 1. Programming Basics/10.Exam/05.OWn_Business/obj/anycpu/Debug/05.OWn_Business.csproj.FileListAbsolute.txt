@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/05.OWn_Business/bin/Debug/05.OWn_Business.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/05.OWn_Business/bin/Debug/05.OWn_Business.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/05.OWn_Business/obj/anycpu/Debug/05.OWn_Business.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/10.Exam/05.OWn_Business/obj/anycpu/Debug/05.OWn_Business.pdb

@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/04.Small_Shop/bin/Debug/04.Small_Shop.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/04.Small_Shop/bin/Debug/04.Small_Shop.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/04.Small_Shop/obj/anycpu/Debug/04.Small_Shop.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/04.Small_Shop/obj/anycpu/Debug/04.Small_Shop.pdb

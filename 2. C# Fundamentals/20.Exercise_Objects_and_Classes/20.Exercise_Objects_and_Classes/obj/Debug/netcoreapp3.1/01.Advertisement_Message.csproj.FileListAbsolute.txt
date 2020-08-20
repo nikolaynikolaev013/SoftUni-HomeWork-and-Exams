@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/obj/Debug/netcoreapp3.1/01.Advertisement_Message.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/obj/Debug/netcoreapp3.1/01.Advertisement_Message.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/obj/Debug/netcoreapp3.1/01.Advertisement_Message.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/obj/Debug/netcoreapp3.1/01.Advertisement_Message.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/bin/Debug/netcoreapp3.1/01.Advertisement_Message.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/bin/Debug/netcoreapp3.1/01.Advertisement_Message.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/bin/Debug/netcoreapp3.1/01.Advertisement_Message.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/bin/Debug/netcoreapp3.1/01.Advertisement_Message.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/bin/Debug/netcoreapp3.1/01.Advertisement_Message.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/obj/Debug/netcoreapp3.1/01.Advertisement_Message.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/obj/Debug/netcoreapp3.1/01.Advertisement_Message.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/20.Exercise_Objects_and_Classes/obj/Debug/netcoreapp3.1/01.Advertisement_Message.genruntimeconfig.cache

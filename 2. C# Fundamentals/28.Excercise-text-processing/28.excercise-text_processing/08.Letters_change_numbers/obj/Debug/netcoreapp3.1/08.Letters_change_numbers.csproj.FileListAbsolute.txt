@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/bin/Debug/netcoreapp3.1/08.Letters_change_numbers.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/bin/Debug/netcoreapp3.1/08.Letters_change_numbers.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/bin/Debug/netcoreapp3.1/08.Letters_change_numbers.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/bin/Debug/netcoreapp3.1/08.Letters_change_numbers.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/bin/Debug/netcoreapp3.1/08.Letters_change_numbers.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/obj/Debug/netcoreapp3.1/08.Letters_change_numbers.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/obj/Debug/netcoreapp3.1/08.Letters_change_numbers.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/obj/Debug/netcoreapp3.1/08.Letters_change_numbers.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/obj/Debug/netcoreapp3.1/08.Letters_change_numbers.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/obj/Debug/netcoreapp3.1/08.Letters_change_numbers.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/obj/Debug/netcoreapp3.1/08.Letters_change_numbers.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/08.Letters_change_numbers/obj/Debug/netcoreapp3.1/08.Letters_change_numbers.genruntimeconfig.cache

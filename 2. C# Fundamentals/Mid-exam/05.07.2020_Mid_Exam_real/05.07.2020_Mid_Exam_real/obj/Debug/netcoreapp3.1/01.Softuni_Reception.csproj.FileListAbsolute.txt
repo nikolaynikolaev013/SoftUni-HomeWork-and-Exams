@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/bin/Debug/netcoreapp3.1/01.Softuni_Reception.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/bin/Debug/netcoreapp3.1/01.Softuni_Reception.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/bin/Debug/netcoreapp3.1/01.Softuni_Reception.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/bin/Debug/netcoreapp3.1/01.Softuni_Reception.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/bin/Debug/netcoreapp3.1/01.Softuni_Reception.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/obj/Debug/netcoreapp3.1/01.Softuni_Reception.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/obj/Debug/netcoreapp3.1/01.Softuni_Reception.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/obj/Debug/netcoreapp3.1/01.Softuni_Reception.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/obj/Debug/netcoreapp3.1/01.Softuni_Reception.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/obj/Debug/netcoreapp3.1/01.Softuni_Reception.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/obj/Debug/netcoreapp3.1/01.Softuni_Reception.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/05.07.2020_Mid_Exam_real/05.07.2020_Mid_Exam_real/obj/Debug/netcoreapp3.1/01.Softuni_Reception.genruntimeconfig.cache

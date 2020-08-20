@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/4.1.Nested_Conditional_Statements_Uprajnenie/bin/Debug/4.1.Nested_Conditional_Statements_Uprajnenie.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/4.1.Nested_Conditional_Statements_Uprajnenie/bin/Debug/4.1.Nested_Conditional_Statements_Uprajnenie.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/4.1.Nested_Conditional_Statements_Uprajnenie/obj/Debug/4.1.Nested_Conditional_Statements_Uprajnenie.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/4.1.Nested_Conditional_Statements_Uprajnenie/4.1.Nested_Conditional_Statements_Uprajnenie/obj/Debug/4.1.Nested_Conditional_Statements_Uprajnenie.pdb

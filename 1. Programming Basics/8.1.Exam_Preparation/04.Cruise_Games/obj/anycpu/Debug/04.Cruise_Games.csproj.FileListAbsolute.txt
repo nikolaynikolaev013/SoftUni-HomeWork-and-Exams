@@ -1,0 +1,5 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/04.Cruise_Games/bin/Debug/04.Cruise_Games.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/04.Cruise_Games/bin/Debug/04.Cruise_Games.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/04.Cruise_Games/obj/anycpu/Debug/04.Cruise_Games.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/04.Cruise_Games/obj/anycpu/Debug/04.Cruise_Games.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/8.1.Exam_Preparation/04.Cruise_Games/obj/anycpu/Debug/04.Cruise_Games.csprojAssemblyReference.cache

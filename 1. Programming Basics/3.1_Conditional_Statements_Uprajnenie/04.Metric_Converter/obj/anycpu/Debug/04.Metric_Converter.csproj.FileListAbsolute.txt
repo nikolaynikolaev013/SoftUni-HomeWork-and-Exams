@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/04.Metric_Converter/bin/Debug/04.Metric_Converter.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/04.Metric_Converter/bin/Debug/04.Metric_Converter.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/04.Metric_Converter/obj/anycpu/Debug/04.Metric_Converter.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/04.Metric_Converter/obj/anycpu/Debug/04.Metric_Converter.pdb

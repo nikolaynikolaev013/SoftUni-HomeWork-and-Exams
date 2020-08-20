@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/08.Company_users/obj/Debug/netcoreapp3.1/08.Company_users.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/08.Company_users/obj/Debug/netcoreapp3.1/08.Company_users.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/08.Company_users/obj/Debug/netcoreapp3.1/08.Company_users.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/08.Company_users/bin/Debug/netcoreapp3.1/08.Company_users.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/08.Company_users/bin/Debug/netcoreapp3.1/08.Company_users.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/08.Company_users/bin/Debug/netcoreapp3.1/08.Company_users.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/08.Company_users/bin/Debug/netcoreapp3.1/08.Company_users.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/08.Company_users/bin/Debug/netcoreapp3.1/08.Company_users.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/08.Company_users/obj/Debug/netcoreapp3.1/08.Company_users.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/08.Company_users/obj/Debug/netcoreapp3.1/08.Company_users.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/08.Company_users/obj/Debug/netcoreapp3.1/08.Company_users.genruntimeconfig.cache

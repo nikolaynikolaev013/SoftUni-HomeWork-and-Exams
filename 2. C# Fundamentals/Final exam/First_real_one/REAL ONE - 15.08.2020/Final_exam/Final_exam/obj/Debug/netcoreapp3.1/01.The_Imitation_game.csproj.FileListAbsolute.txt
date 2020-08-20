@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/bin/Debug/netcoreapp3.1/01.The_Imitation_game.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/bin/Debug/netcoreapp3.1/01.The_Imitation_game.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/bin/Debug/netcoreapp3.1/01.The_Imitation_game.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/bin/Debug/netcoreapp3.1/01.The_Imitation_game.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/bin/Debug/netcoreapp3.1/01.The_Imitation_game.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/obj/Debug/netcoreapp3.1/01.The_Imitation_game.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/obj/Debug/netcoreapp3.1/01.The_Imitation_game.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/obj/Debug/netcoreapp3.1/01.The_Imitation_game.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/obj/Debug/netcoreapp3.1/01.The_Imitation_game.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/obj/Debug/netcoreapp3.1/01.The_Imitation_game.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/obj/Debug/netcoreapp3.1/01.The_Imitation_game.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/Final_exam/obj/Debug/netcoreapp3.1/01.The_Imitation_game.genruntimeconfig.cache

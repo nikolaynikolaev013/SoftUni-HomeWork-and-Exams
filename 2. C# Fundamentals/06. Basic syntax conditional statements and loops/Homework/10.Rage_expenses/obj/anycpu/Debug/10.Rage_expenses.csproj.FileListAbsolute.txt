@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/10.Rage_expenses/bin/Debug/10.Rage_expenses.exe
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/10.Rage_expenses/bin/Debug/10.Rage_expenses.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/10.Rage_expenses/obj/anycpu/Debug/10.Rage_expenses.exe
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/06. Basic syntax conditional statements and loops/Homework/10.Rage_expenses/obj/anycpu/Debug/10.Rage_expenses.pdb

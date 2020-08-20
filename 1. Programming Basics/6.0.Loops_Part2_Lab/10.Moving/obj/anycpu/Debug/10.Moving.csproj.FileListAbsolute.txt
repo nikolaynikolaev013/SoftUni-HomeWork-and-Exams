@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/10.Moving/bin/Debug/10.Moving.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/10.Moving/bin/Debug/10.Moving.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/10.Moving/obj/anycpu/Debug/10.Moving.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.0.Loops_Part2_Lab/10.Moving/obj/anycpu/Debug/10.Moving.pdb

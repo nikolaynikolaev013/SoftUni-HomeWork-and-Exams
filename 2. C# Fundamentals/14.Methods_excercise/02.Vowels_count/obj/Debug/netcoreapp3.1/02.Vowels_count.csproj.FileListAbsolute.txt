@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/bin/Debug/netcoreapp3.1/02.Vowels_count.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/bin/Debug/netcoreapp3.1/02.Vowels_count.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/bin/Debug/netcoreapp3.1/02.Vowels_count.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/bin/Debug/netcoreapp3.1/02.Vowels_count.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/bin/Debug/netcoreapp3.1/02.Vowels_count.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/obj/Debug/netcoreapp3.1/02.Vowels_count.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/obj/Debug/netcoreapp3.1/02.Vowels_count.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/obj/Debug/netcoreapp3.1/02.Vowels_count.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/obj/Debug/netcoreapp3.1/02.Vowels_count.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/obj/Debug/netcoreapp3.1/02.Vowels_count.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/obj/Debug/netcoreapp3.1/02.Vowels_count.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/02.Vowels_count/obj/Debug/netcoreapp3.1/02.Vowels_count.genruntimeconfig.cache

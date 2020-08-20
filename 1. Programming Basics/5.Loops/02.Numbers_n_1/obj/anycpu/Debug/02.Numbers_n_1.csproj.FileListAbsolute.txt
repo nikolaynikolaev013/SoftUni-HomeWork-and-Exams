@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/02.Numbers_n_1/bin/Debug/02.Numbers_n_1.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/02.Numbers_n_1/bin/Debug/02.Numbers_n_1.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/02.Numbers_n_1/obj/anycpu/Debug/02.Numbers_n_1.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/02.Numbers_n_1/obj/anycpu/Debug/02.Numbers_n_1.pdb

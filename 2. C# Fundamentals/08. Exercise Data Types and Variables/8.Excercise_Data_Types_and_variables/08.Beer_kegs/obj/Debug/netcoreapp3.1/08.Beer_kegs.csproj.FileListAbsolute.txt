@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/08.Beer_kegs/bin/Debug/netcoreapp3.1/08.Beer_kegs.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/08.Beer_kegs/bin/Debug/netcoreapp3.1/08.Beer_kegs.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/08.Beer_kegs/bin/Debug/netcoreapp3.1/08.Beer_kegs.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/08.Beer_kegs/bin/Debug/netcoreapp3.1/08.Beer_kegs.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/08.Beer_kegs/bin/Debug/netcoreapp3.1/08.Beer_kegs.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/08.Beer_kegs/obj/Debug/netcoreapp3.1/08.Beer_kegs.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/08.Beer_kegs/obj/Debug/netcoreapp3.1/08.Beer_kegs.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/08.Beer_kegs/obj/Debug/netcoreapp3.1/08.Beer_kegs.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/08.Beer_kegs/obj/Debug/netcoreapp3.1/08.Beer_kegs.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/08.Beer_kegs/obj/Debug/netcoreapp3.1/08.Beer_kegs.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/08.Beer_kegs/obj/Debug/netcoreapp3.1/08.Beer_kegs.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/02.Space_Ship/bin/Debug/02.Space_Ship.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/02.Space_Ship/bin/Debug/02.Space_Ship.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/02.Space_Ship/obj/anycpu/Debug/02.Space_Ship.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/02.Space_Ship/obj/anycpu/Debug/02.Space_Ship.pdb

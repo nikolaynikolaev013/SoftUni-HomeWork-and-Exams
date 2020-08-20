@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{084C09D2-F349-484A-8D3F-95F899E53B44}|Default">
+  <MonoDevelop.Ide.ItemProperties.3.Num__1__to__10 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="4.Rectangle_Area/Program.cs">
+    <Files>
+      <File FileName="Homework/Program.cs" Line="13" Column="1" />
+      <File FileName="2.Expression/Program.cs" />
+      <File FileName="3.Num_1_to_10/Program.cs" />
+      <File FileName="4.Rectangle_Area/Program.cs" Line="14" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework" expanded="True">
+            <Node name="4.Rectangle_Area" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.1.Hello__SoftUni PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.2.Expression FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.4.Rectangle__Area PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

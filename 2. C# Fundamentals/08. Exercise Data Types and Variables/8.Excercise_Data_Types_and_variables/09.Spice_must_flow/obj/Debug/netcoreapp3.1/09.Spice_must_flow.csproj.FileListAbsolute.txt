@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/09.Spice_must_flow/bin/Debug/netcoreapp3.1/09.Spice_must_flow.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/09.Spice_must_flow/bin/Debug/netcoreapp3.1/09.Spice_must_flow.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/09.Spice_must_flow/bin/Debug/netcoreapp3.1/09.Spice_must_flow.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/09.Spice_must_flow/bin/Debug/netcoreapp3.1/09.Spice_must_flow.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/09.Spice_must_flow/bin/Debug/netcoreapp3.1/09.Spice_must_flow.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/09.Spice_must_flow/obj/Debug/netcoreapp3.1/09.Spice_must_flow.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/09.Spice_must_flow/obj/Debug/netcoreapp3.1/09.Spice_must_flow.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/09.Spice_must_flow/obj/Debug/netcoreapp3.1/09.Spice_must_flow.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/09.Spice_must_flow/obj/Debug/netcoreapp3.1/09.Spice_must_flow.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/09.Spice_must_flow/obj/Debug/netcoreapp3.1/09.Spice_must_flow.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/09.Spice_must_flow/obj/Debug/netcoreapp3.1/09.Spice_must_flow.genruntimeconfig.cache

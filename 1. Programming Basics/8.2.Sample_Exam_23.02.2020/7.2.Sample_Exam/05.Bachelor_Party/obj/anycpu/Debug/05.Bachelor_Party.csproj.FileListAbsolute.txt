@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/05.Bachelor_Party/bin/Debug/05.Bachelor_Party.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/05.Bachelor_Party/bin/Debug/05.Bachelor_Party.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/05.Bachelor_Party/obj/anycpu/Debug/05.Bachelor_Party.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.2.Sample_Exam_23.02.2020/7.2.Sample_Exam/05.Bachelor_Party/obj/anycpu/Debug/05.Bachelor_Party.pdb

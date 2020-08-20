@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/bin/Debug/netcoreapp3.1/02.A_Miner_task.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/bin/Debug/netcoreapp3.1/02.A_Miner_task.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/bin/Debug/netcoreapp3.1/02.A_Miner_task.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/bin/Debug/netcoreapp3.1/02.A_Miner_task.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/bin/Debug/netcoreapp3.1/02.A_Miner_task.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/obj/Debug/netcoreapp3.1/02.A_Miner_task.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/obj/Debug/netcoreapp3.1/02.A_Miner_task.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/obj/Debug/netcoreapp3.1/02.A_Miner_task.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/obj/Debug/netcoreapp3.1/02.A_Miner_task.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/obj/Debug/netcoreapp3.1/02.A_Miner_task.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/obj/Debug/netcoreapp3.1/02.A_Miner_task.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/02.A_Miner_task/obj/Debug/netcoreapp3.1/02.A_Miner_task.genruntimeconfig.cache

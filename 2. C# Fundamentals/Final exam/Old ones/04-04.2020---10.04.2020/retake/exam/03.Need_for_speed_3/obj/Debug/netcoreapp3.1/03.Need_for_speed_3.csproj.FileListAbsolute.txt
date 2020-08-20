@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/bin/Debug/netcoreapp3.1/03.Need_for_speed_3.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/bin/Debug/netcoreapp3.1/03.Need_for_speed_3.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/bin/Debug/netcoreapp3.1/03.Need_for_speed_3.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/bin/Debug/netcoreapp3.1/03.Need_for_speed_3.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/bin/Debug/netcoreapp3.1/03.Need_for_speed_3.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/obj/Debug/netcoreapp3.1/03.Need_for_speed_3.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/obj/Debug/netcoreapp3.1/03.Need_for_speed_3.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/obj/Debug/netcoreapp3.1/03.Need_for_speed_3.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/obj/Debug/netcoreapp3.1/03.Need_for_speed_3.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/obj/Debug/netcoreapp3.1/03.Need_for_speed_3.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/obj/Debug/netcoreapp3.1/03.Need_for_speed_3.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/03.Need_for_speed_3/obj/Debug/netcoreapp3.1/03.Need_for_speed_3.genruntimeconfig.cache

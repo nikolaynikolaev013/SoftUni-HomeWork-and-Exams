@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/bin/Debug/netcoreapp3.1/02.Mu_Online.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/bin/Debug/netcoreapp3.1/02.Mu_Online.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/bin/Debug/netcoreapp3.1/02.Mu_Online.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/bin/Debug/netcoreapp3.1/02.Mu_Online.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/bin/Debug/netcoreapp3.1/02.Mu_Online.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/obj/Debug/netcoreapp3.1/02.Mu_Online.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/obj/Debug/netcoreapp3.1/02.Mu_Online.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/obj/Debug/netcoreapp3.1/02.Mu_Online.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/obj/Debug/netcoreapp3.1/02.Mu_Online.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/obj/Debug/netcoreapp3.1/02.Mu_Online.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/obj/Debug/netcoreapp3.1/02.Mu_Online.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Mid-exam/Practise/03.Mid Exam - 29 February 2020 Group 1/03.Mid_Exam_29_February_2020_Group_1/02.Mu_Online/obj/Debug/netcoreapp3.1/02.Mu_Online.genruntimeconfig.cache

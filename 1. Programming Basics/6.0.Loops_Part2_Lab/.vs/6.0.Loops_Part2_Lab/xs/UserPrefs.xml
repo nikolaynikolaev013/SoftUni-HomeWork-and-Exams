@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{27D6B2AE-25B9-483C-8656-A836182580BB}|Default">
+  <MonoDevelop.Ide.ItemProperties.04.2k1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.Moving PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Sum__Numbers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.Account__Balance PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Max__Number PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="10.Moving/Program.cs">
+    <Files>
+      <File FileName="6.0.Loops_Part2_Lab/Program.cs" Line="16" Column="10" />
+      <File FileName="02.User/Program.cs" />
+      <File FileName="03.Numbers_Sum/Program.cs" />
+      <File FileName="04.2k1/Program.cs" />
+      <File FileName="05.Money_Balance/Program.cs" />
+      <File FileName="06.Graduation/Program.cs" />
+      <File FileName="06.Max_Number/Program.cs" />
+      <File FileName="07.Min_Number/Program.cs" Line="23" Column="27" />
+      <File FileName="09.Graduation_Part2/Program.cs" Line="19" Column="1" />
+      <File FileName="10.Moving/Program.cs" Line="19" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="6.0.Loops_Part2_Lab" expanded="True">
+            <Node name="10.Moving" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.Read__text PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.07.Min__Number PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.09.Graduation__Part2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.Password PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.08.Graduation PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

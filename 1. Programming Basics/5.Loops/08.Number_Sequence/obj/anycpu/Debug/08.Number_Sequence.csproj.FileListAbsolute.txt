@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/08.Number_Sequence/bin/Debug/08.Number_Sequence.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/08.Number_Sequence/bin/Debug/08.Number_Sequence.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/08.Number_Sequence/obj/anycpu/Debug/08.Number_Sequence.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/08.Number_Sequence/obj/anycpu/Debug/08.Number_Sequence.pdb

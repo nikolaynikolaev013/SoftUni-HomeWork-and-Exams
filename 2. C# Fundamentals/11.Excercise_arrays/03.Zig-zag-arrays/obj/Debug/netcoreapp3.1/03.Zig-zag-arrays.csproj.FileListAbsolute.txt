@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/bin/Debug/netcoreapp3.1/03.Zig-zag-arrays.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/bin/Debug/netcoreapp3.1/03.Zig-zag-arrays.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/bin/Debug/netcoreapp3.1/03.Zig-zag-arrays.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/bin/Debug/netcoreapp3.1/03.Zig-zag-arrays.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/bin/Debug/netcoreapp3.1/03.Zig-zag-arrays.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/obj/Debug/netcoreapp3.1/03.Zig-zag-arrays.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/obj/Debug/netcoreapp3.1/03.Zig-zag-arrays.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/obj/Debug/netcoreapp3.1/03.Zig-zag-arrays.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/obj/Debug/netcoreapp3.1/03.Zig-zag-arrays.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/obj/Debug/netcoreapp3.1/03.Zig-zag-arrays.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/obj/Debug/netcoreapp3.1/03.Zig-zag-arrays.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/03.Zig-zag-arrays/obj/Debug/netcoreapp3.1/03.Zig-zag-arrays.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/bin/Debug/netcoreapp3.1/02.Mirror_worlds.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/bin/Debug/netcoreapp3.1/02.Mirror_worlds.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/bin/Debug/netcoreapp3.1/02.Mirror_worlds.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/bin/Debug/netcoreapp3.1/02.Mirror_worlds.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/bin/Debug/netcoreapp3.1/02.Mirror_worlds.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/obj/Debug/netcoreapp3.1/02.Mirror_worlds.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/obj/Debug/netcoreapp3.1/02.Mirror_worlds.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/obj/Debug/netcoreapp3.1/02.Mirror_worlds.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/obj/Debug/netcoreapp3.1/02.Mirror_worlds.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/obj/Debug/netcoreapp3.1/02.Mirror_worlds.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/obj/Debug/netcoreapp3.1/02.Mirror_worlds.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/retake/exam/02.Mirror_worlds/obj/Debug/netcoreapp3.1/02.Mirror_worlds.genruntimeconfig.cache

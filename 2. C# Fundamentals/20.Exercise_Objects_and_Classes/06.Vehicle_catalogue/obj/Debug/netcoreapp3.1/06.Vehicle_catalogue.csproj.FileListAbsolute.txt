@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/bin/Debug/netcoreapp3.1/06.Vehicle_catalogue.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/bin/Debug/netcoreapp3.1/06.Vehicle_catalogue.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/bin/Debug/netcoreapp3.1/06.Vehicle_catalogue.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/bin/Debug/netcoreapp3.1/06.Vehicle_catalogue.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/bin/Debug/netcoreapp3.1/06.Vehicle_catalogue.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/obj/Debug/netcoreapp3.1/06.Vehicle_catalogue.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/obj/Debug/netcoreapp3.1/06.Vehicle_catalogue.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/obj/Debug/netcoreapp3.1/06.Vehicle_catalogue.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/obj/Debug/netcoreapp3.1/06.Vehicle_catalogue.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/obj/Debug/netcoreapp3.1/06.Vehicle_catalogue.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/obj/Debug/netcoreapp3.1/06.Vehicle_catalogue.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/20.Exercise_Objects_and_Classes/06.Vehicle_catalogue/obj/Debug/netcoreapp3.1/06.Vehicle_catalogue.genruntimeconfig.cache

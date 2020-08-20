@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/07.NxN_Matrix/bin/Debug/netcoreapp3.1/07.NxN_Matrix.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/07.NxN_Matrix/bin/Debug/netcoreapp3.1/07.NxN_Matrix.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/07.NxN_Matrix/bin/Debug/netcoreapp3.1/07.NxN_Matrix.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/07.NxN_Matrix/bin/Debug/netcoreapp3.1/07.NxN_Matrix.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/07.NxN_Matrix/bin/Debug/netcoreapp3.1/07.NxN_Matrix.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/07.NxN_Matrix/obj/Debug/netcoreapp3.1/07.NxN_Matrix.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/07.NxN_Matrix/obj/Debug/netcoreapp3.1/07.NxN_Matrix.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/07.NxN_Matrix/obj/Debug/netcoreapp3.1/07.NxN_Matrix.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/07.NxN_Matrix/obj/Debug/netcoreapp3.1/07.NxN_Matrix.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/07.NxN_Matrix/obj/Debug/netcoreapp3.1/07.NxN_Matrix.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/14.Methods_excercise/07.NxN_Matrix/obj/Debug/netcoreapp3.1/07.NxN_Matrix.genruntimeconfig.cache

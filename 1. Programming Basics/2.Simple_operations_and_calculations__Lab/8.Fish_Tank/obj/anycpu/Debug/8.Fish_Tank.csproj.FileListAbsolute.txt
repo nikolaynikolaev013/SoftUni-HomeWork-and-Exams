@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/8.Fish_Tank/bin/Debug/8.Fish_Tank.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/8.Fish_Tank/bin/Debug/8.Fish_Tank.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/8.Fish_Tank/obj/anycpu/Debug/8.Fish_Tank.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/8.Fish_Tank/obj/anycpu/Debug/8.Fish_Tank.pdb

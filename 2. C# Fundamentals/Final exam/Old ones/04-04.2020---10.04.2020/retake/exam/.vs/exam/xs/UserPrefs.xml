@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{131B38DE-BE54-4410-8946-9F20F3A18F29}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.Secret__chat PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Need_for_speed_3/Program.cs">
+    <Files>
+      <File FileName="exam/Program.cs" Line="34" Column="95" />
+      <File FileName="02.Mirror_worlds/Program.cs" Line="45" Column="21" />
+      <File FileName="03.Need_for_speed_3/Program.cs" Line="57" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exam" expanded="True">
+            <Node name="03.Need_for_speed_3" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02.Mirror__worlds PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.03.Need__for__speed__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

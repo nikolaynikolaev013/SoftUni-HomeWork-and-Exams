@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/obj/Debug/netcoreapp3.1/03.The_Pianist.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/obj/Debug/netcoreapp3.1/03.The_Pianist.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/obj/Debug/netcoreapp3.1/03.The_Pianist.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/obj/Debug/netcoreapp3.1/03.The_Pianist.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/bin/Debug/netcoreapp3.1/03.The_Pianist.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/bin/Debug/netcoreapp3.1/03.The_Pianist.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/bin/Debug/netcoreapp3.1/03.The_Pianist.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/bin/Debug/netcoreapp3.1/03.The_Pianist.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/bin/Debug/netcoreapp3.1/03.The_Pianist.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/obj/Debug/netcoreapp3.1/03.The_Pianist.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/obj/Debug/netcoreapp3.1/03.The_Pianist.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/First_real_one/REAL ONE - 15.08.2020/Final_exam/03.The_Pianist/obj/Debug/netcoreapp3.1/03.The_Pianist.genruntimeconfig.cache

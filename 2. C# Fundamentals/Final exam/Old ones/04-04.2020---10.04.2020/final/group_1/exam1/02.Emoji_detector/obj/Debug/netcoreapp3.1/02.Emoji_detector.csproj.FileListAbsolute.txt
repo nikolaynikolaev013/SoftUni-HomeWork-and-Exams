@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/bin/Debug/netcoreapp3.1/02.Emoji_detector.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/bin/Debug/netcoreapp3.1/02.Emoji_detector.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/bin/Debug/netcoreapp3.1/02.Emoji_detector.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/bin/Debug/netcoreapp3.1/02.Emoji_detector.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/bin/Debug/netcoreapp3.1/02.Emoji_detector.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/obj/Debug/netcoreapp3.1/02.Emoji_detector.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/obj/Debug/netcoreapp3.1/02.Emoji_detector.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/obj/Debug/netcoreapp3.1/02.Emoji_detector.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/obj/Debug/netcoreapp3.1/02.Emoji_detector.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/obj/Debug/netcoreapp3.1/02.Emoji_detector.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/obj/Debug/netcoreapp3.1/02.Emoji_detector.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/04-04.2020---10.04.2020/final/group_1/exam1/02.Emoji_detector/obj/Debug/netcoreapp3.1/02.Emoji_detector.genruntimeconfig.cache

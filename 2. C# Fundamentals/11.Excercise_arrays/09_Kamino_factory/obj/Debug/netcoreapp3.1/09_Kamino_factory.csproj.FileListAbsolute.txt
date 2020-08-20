@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/bin/Debug/netcoreapp3.1/09_Kamino_factory.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/bin/Debug/netcoreapp3.1/09_Kamino_factory.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/bin/Debug/netcoreapp3.1/09_Kamino_factory.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/bin/Debug/netcoreapp3.1/09_Kamino_factory.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/bin/Debug/netcoreapp3.1/09_Kamino_factory.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/obj/Debug/netcoreapp3.1/09_Kamino_factory.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/obj/Debug/netcoreapp3.1/09_Kamino_factory.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/obj/Debug/netcoreapp3.1/09_Kamino_factory.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/obj/Debug/netcoreapp3.1/09_Kamino_factory.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/obj/Debug/netcoreapp3.1/09_Kamino_factory.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/obj/Debug/netcoreapp3.1/09_Kamino_factory.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/09_Kamino_factory/obj/Debug/netcoreapp3.1/09_Kamino_factory.genruntimeconfig.cache

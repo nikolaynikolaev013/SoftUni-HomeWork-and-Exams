@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/02.Equal_Sums_Even_Odd_Position/bin/Debug/02.Equal_Sums_Even_Odd_Position.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/02.Equal_Sums_Even_Odd_Position/bin/Debug/02.Equal_Sums_Even_Odd_Position.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/02.Equal_Sums_Even_Odd_Position/obj/anycpu/Debug/02.Equal_Sums_Even_Odd_Position.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/7.1.Nested_Loops_Excercise/01.Number_Pyramid/02.Equal_Sums_Even_Odd_Position/obj/anycpu/Debug/02.Equal_Sums_Even_Odd_Position.pdb

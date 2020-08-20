@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/07.Area_Of_Figures/bin/Debug/07.Area_Of_Figures.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/07.Area_Of_Figures/bin/Debug/07.Area_Of_Figures.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/07.Area_Of_Figures/obj/anycpu/Debug/07.Area_Of_Figures.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/07.Area_Of_Figures/obj/anycpu/Debug/07.Area_Of_Figures.pdb

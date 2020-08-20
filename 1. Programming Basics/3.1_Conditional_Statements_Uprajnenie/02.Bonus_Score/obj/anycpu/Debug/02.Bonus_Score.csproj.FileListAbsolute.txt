@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/02.Bonus_Score/bin/Debug/02.Bonus_Score.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/02.Bonus_Score/bin/Debug/02.Bonus_Score.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/02.Bonus_Score/obj/anycpu/Debug/02.Bonus_Score.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/02.Bonus_Score/obj/anycpu/Debug/02.Bonus_Score.pdb

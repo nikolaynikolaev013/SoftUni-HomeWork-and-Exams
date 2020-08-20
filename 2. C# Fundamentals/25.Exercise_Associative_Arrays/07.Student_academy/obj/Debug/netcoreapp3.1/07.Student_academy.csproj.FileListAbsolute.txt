@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/07.Student_academy/bin/Debug/netcoreapp3.1/07.Student_academy.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/07.Student_academy/bin/Debug/netcoreapp3.1/07.Student_academy.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/07.Student_academy/bin/Debug/netcoreapp3.1/07.Student_academy.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/07.Student_academy/bin/Debug/netcoreapp3.1/07.Student_academy.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/07.Student_academy/bin/Debug/netcoreapp3.1/07.Student_academy.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/07.Student_academy/obj/Debug/netcoreapp3.1/07.Student_academy.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/07.Student_academy/obj/Debug/netcoreapp3.1/07.Student_academy.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/07.Student_academy/obj/Debug/netcoreapp3.1/07.Student_academy.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/07.Student_academy/obj/Debug/netcoreapp3.1/07.Student_academy.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/07.Student_academy/obj/Debug/netcoreapp3.1/07.Student_academy.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/25.Exercise_Associative_Arrays/07.Student_academy/obj/Debug/netcoreapp3.1/07.Student_academy.genruntimeconfig.cache

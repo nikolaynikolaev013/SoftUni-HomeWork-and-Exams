@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/09.Trade_Commissions/bin/Debug/09.Trade_Commissions.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/09.Trade_Commissions/bin/Debug/09.Trade_Commissions.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/09.Trade_Commissions/obj/anycpu/Debug/09.Trade_Commissions.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/09.Trade_Commissions/obj/anycpu/Debug/09.Trade_Commissions.pdb

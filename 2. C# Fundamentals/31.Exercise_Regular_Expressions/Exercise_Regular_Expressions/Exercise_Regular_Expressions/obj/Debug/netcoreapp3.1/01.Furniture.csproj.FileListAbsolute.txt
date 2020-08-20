@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/bin/Debug/netcoreapp3.1/01.Furniture.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/bin/Debug/netcoreapp3.1/01.Furniture.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/bin/Debug/netcoreapp3.1/01.Furniture.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/bin/Debug/netcoreapp3.1/01.Furniture.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/bin/Debug/netcoreapp3.1/01.Furniture.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/obj/Debug/netcoreapp3.1/01.Furniture.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/obj/Debug/netcoreapp3.1/01.Furniture.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/obj/Debug/netcoreapp3.1/01.Furniture.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/obj/Debug/netcoreapp3.1/01.Furniture.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/obj/Debug/netcoreapp3.1/01.Furniture.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/obj/Debug/netcoreapp3.1/01.Furniture.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/Exercise_Regular_Expressions/obj/Debug/netcoreapp3.1/01.Furniture.genruntimeconfig.cache

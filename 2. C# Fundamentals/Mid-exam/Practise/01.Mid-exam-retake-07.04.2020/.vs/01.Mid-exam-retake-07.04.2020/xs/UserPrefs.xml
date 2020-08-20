@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{174C7C6F-50C7-4E4C-AE55-A335F361B241}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Moving_Target/Program.cs">
+    <Files>
+      <File FileName="01.Mid-exam-retake-07.04.2020/Program.cs" Line="9" Column="63" />
+      <File FileName="02.Shoot_for_the_win/Program.cs" Line="32" Column="44" />
+      <File FileName="03.Moving_Target/Program.cs" Line="22" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01.Mid-exam-retake-07.04.2020" expanded="True">
+            <Node name="01.Counter-Strike" expanded="True" />
+            <Node name="02.Shoot_for_the_win" expanded="True" />
+            <Node name="03.Moving_Target" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.03.Moving__Target PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02.Shoot__for__the__win PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Counter-Strike PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/bin/Debug/netcoreapp3.1/05.Top_integers.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/bin/Debug/netcoreapp3.1/05.Top_integers.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/bin/Debug/netcoreapp3.1/05.Top_integers.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/bin/Debug/netcoreapp3.1/05.Top_integers.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/bin/Debug/netcoreapp3.1/05.Top_integers.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/obj/Debug/netcoreapp3.1/05.Top_integers.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/obj/Debug/netcoreapp3.1/05.Top_integers.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/obj/Debug/netcoreapp3.1/05.Top_integers.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/obj/Debug/netcoreapp3.1/05.Top_integers.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/obj/Debug/netcoreapp3.1/05.Top_integers.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/obj/Debug/netcoreapp3.1/05.Top_integers.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/05.Top_integers/obj/Debug/netcoreapp3.1/05.Top_integers.genruntimeconfig.cache

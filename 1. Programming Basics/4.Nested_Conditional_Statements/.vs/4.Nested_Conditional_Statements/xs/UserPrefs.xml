@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{EEC4FF45-078B-4769-83F0-4A079CDEA808}|Default">
+  <MonoDevelop.Ide.ItemProperties.08.Fruit__shop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10.Ski__Trip PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.Number__in__Range PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Small__Shop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="09.Trade_Commissions/Program.cs">
+    <Files>
+      <File FileName="06.Fruit_or_vegetable/Program.cs" Line="17" Column="28" />
+      <File FileName="07.Invalid_number/Program.cs" Line="13" Column="46" />
+      <File FileName="08.Fruit_shop/Program.cs" Line="91" Column="41" />
+      <File FileName="09.Trade_Commissions/Program.cs" Line="89" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="4.Nested_Conditional_Statements" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02.Animal__Type PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Fruit__or__vegetable PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.Invalid__number PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.09.Trade__Commissions PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Day__Of__Week PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Personal__Titles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nikolaynikolaev/SoftUni/1. Programming Basics/4.Nested_Conditional_Statements/07.Invalid_number/Program.cs" relfile="07.Invalid_number/Program.cs" line="15" column="10" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

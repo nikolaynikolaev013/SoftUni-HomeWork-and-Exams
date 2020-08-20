@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/bin/Debug/netcoreapp3.1/02.Message_translator.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/bin/Debug/netcoreapp3.1/02.Message_translator.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/bin/Debug/netcoreapp3.1/02.Message_translator.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/bin/Debug/netcoreapp3.1/02.Message_translator.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/bin/Debug/netcoreapp3.1/02.Message_translator.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/obj/Debug/netcoreapp3.1/02.Message_translator.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/obj/Debug/netcoreapp3.1/02.Message_translator.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/obj/Debug/netcoreapp3.1/02.Message_translator.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/obj/Debug/netcoreapp3.1/02.Message_translator.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/obj/Debug/netcoreapp3.1/02.Message_translator.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/obj/Debug/netcoreapp3.1/02.Message_translator.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 2/exam4/02.Message_translator/obj/Debug/netcoreapp3.1/02.Message_translator.genruntimeconfig.cache

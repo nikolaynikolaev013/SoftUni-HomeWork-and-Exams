@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/10.Odd_Even_Sum/bin/Debug/10.Odd_Even_Sum.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/10.Odd_Even_Sum/bin/Debug/10.Odd_Even_Sum.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/10.Odd_Even_Sum/obj/anycpu/Debug/10.Odd_Even_Sum.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/5.Loops/10.Odd_Even_Sum/obj/anycpu/Debug/10.Odd_Even_Sum.pdb

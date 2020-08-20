@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/bin/Debug/netcoreapp3.1/02.Registration.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/bin/Debug/netcoreapp3.1/02.Registration.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/bin/Debug/netcoreapp3.1/02.Registration.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/bin/Debug/netcoreapp3.1/02.Registration.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/bin/Debug/netcoreapp3.1/02.Registration.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/obj/Debug/netcoreapp3.1/02.Registration.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/obj/Debug/netcoreapp3.1/02.Registration.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/obj/Debug/netcoreapp3.1/02.Registration.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/obj/Debug/netcoreapp3.1/02.Registration.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/obj/Debug/netcoreapp3.1/02.Registration.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/obj/Debug/netcoreapp3.1/02.Registration.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/07.12.2019-13.12.2019/Group 1/exam5/02.Registration/obj/Debug/netcoreapp3.1/02.Registration.genruntimeconfig.cache

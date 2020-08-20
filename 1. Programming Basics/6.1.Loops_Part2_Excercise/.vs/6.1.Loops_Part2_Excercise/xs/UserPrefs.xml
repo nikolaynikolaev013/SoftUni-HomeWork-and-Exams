@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{22DE4637-1A75-4A4B-AD1B-6369C3CAC0E4}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.Exam__Preparation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Vacation FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Cake PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.Cake/Program.cs">
+    <Files>
+      <File FileName="6.1.Loops_Part2_Excercise/Program.cs" Line="6" Column="6" />
+      <File FileName="02.Exam_Preparation/Program.cs" />
+      <File FileName="03.Vacation/Program.cs" Line="23" Column="21" />
+      <File FileName="04.Walking/Program.cs" Line="51" Column="2" />
+      <File FileName="05.Coins/Program.cs" Line="62" Column="2" />
+      <File FileName="06.Cake/Program.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="6.1.Loops_Part2_Excercise" expanded="True">
+            <Node name="06.Cake" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05.Coins PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Old__Books PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../6.1.Loops_Part2_Excercise/Program.cs" line="21" column="20" endLine="21" endColumn="27" offsetX="-1" offsetY="-1" expression="counter" liveUpdate="False" />
+    <Watch file="../../../6.1.Loops_Part2_Excercise/Program.cs" line="16" column="30" endLine="16" endColumn="38" offsetX="-1" offsetY="-1" expression="capacity" liveUpdate="False" />
+    <Watch file="../../../6.1.Loops_Part2_Excercise/Program.cs" line="16" column="19" endLine="16" endColumn="26" offsetX="-1" offsetY="-1" expression="counter" liveUpdate="True" />
+    <Watch file="../../../6.1.Loops_Part2_Excercise/Program.cs" line="18" column="31" endLine="18" endColumn="36" offsetX="-1" offsetY="-1" expression="input" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.04.Walking PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/05.Coins/Program.cs" relfile="05.Coins/Program.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

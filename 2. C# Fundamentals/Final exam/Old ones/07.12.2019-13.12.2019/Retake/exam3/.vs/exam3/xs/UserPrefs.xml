@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{047FEAF0-FB51-45F8-8DE6-B8B12E5CB67A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Hero_recruiment/Program.cs">
+    <Files>
+      <File FileName="exam3/Program.cs" Line="47" Column="47" />
+      <File FileName="02.Boss_rush/Program.cs" Line="27" Column="54" />
+      <File FileName="03.Hero_recruiment/Program.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exam3" expanded="True">
+            <Node name="03.Hero_recruiment" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.01.Warriors__quest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.Hero__recruiment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.02.Boss__rush PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/Final exam/Old ones/13.12.2019/Retake/exam3/exam3/Program.cs" relfile="exam3/Program.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

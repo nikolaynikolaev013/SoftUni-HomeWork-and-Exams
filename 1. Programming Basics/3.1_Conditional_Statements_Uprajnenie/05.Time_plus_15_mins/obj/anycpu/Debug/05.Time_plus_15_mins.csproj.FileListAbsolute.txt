@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/05.Time_plus_15_mins/bin/Debug/05.Time_plus_15_mins.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/05.Time_plus_15_mins/bin/Debug/05.Time_plus_15_mins.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/05.Time_plus_15_mins/obj/anycpu/Debug/05.Time_plus_15_mins.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.1_Conditional_Statements_Uprajnenie/05.Time_plus_15_mins/obj/anycpu/Debug/05.Time_plus_15_mins.pdb

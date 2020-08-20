@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/bin/Debug/netcoreapp3.1/01.Train.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/bin/Debug/netcoreapp3.1/01.Train.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/bin/Debug/netcoreapp3.1/01.Train.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/bin/Debug/netcoreapp3.1/01.Train.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/bin/Debug/netcoreapp3.1/01.Train.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/obj/Debug/netcoreapp3.1/01.Train.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/obj/Debug/netcoreapp3.1/01.Train.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/obj/Debug/netcoreapp3.1/01.Train.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/obj/Debug/netcoreapp3.1/01.Train.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/obj/Debug/netcoreapp3.1/01.Train.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/obj/Debug/netcoreapp3.1/01.Train.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/11.Excercise_arrays/obj/Debug/netcoreapp3.1/01.Train.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/bin/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/bin/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/bin/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/bin/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/bin/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/obj/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.csprojAssemblyReference.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/obj/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/obj/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/obj/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/obj/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/obj/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/31.Exercise_Regular_Expressions/Exercise_Regular_Expressions/03.SoftUni_Bar_Income/obj/Debug/netcoreapp3.1/03.SoftUni_Bar_Income.genruntimeconfig.cache

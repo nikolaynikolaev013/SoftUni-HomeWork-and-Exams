@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8904C8C6-D808-4473-80DC-3F470FF0363B}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.Inventory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.Mid_Exam_29_February_2020_Group_1/Program.cs">
+    <Files>
+      <File FileName="03.Mid_Exam_29_February_2020_Group_1/Program.cs" Line="51" Column="37" />
+      <File FileName="02.Mu_Online/Program.cs" />
+      <File FileName="01.Bonus_scoring_system/Program.cs" Line="15" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="03.Mid_Exam_29_February_2020_Group_1" expanded="True">
+            <Node name="03.Inventory" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.02.Mu__Online PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Bonus__scoring__system PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

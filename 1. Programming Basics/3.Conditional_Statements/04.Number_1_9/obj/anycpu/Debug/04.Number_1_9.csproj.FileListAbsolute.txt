@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/04.Number_1_9/bin/Debug/04.Number_1_9.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/04.Number_1_9/bin/Debug/04.Number_1_9.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/04.Number_1_9/obj/anycpu/Debug/04.Number_1_9.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/3.Conditional_Statements/04.Number_1_9/obj/anycpu/Debug/04.Number_1_9.pdb

@@ -1,0 +1,12 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/bin/Debug/netcoreapp3.1/06.Replace_repeating_chars.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/bin/Debug/netcoreapp3.1/06.Replace_repeating_chars.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/bin/Debug/netcoreapp3.1/06.Replace_repeating_chars.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/bin/Debug/netcoreapp3.1/06.Replace_repeating_chars.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/bin/Debug/netcoreapp3.1/06.Replace_repeating_chars.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/obj/Debug/netcoreapp3.1/06.Replace_repeating_chars.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/obj/Debug/netcoreapp3.1/06.Replace_repeating_chars.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/obj/Debug/netcoreapp3.1/06.Replace_repeating_chars.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/obj/Debug/netcoreapp3.1/06.Replace_repeating_chars.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/obj/Debug/netcoreapp3.1/06.Replace_repeating_chars.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/obj/Debug/netcoreapp3.1/06.Replace_repeating_chars.genruntimeconfig.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/28.Excercise-text-processing/28.excercise-text_processing/06.Replace_repeating_chars/obj/Debug/netcoreapp3.1/06.Replace_repeating_chars.csprojAssemblyReference.cache

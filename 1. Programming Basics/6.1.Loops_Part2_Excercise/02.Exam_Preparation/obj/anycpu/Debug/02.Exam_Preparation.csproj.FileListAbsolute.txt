@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/02.Exam_Preparation/bin/Debug/02.Exam_Preparation.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/02.Exam_Preparation/bin/Debug/02.Exam_Preparation.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/02.Exam_Preparation/obj/anycpu/Debug/02.Exam_Preparation.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/6.1.Loops_Part2_Excercise/02.Exam_Preparation/obj/anycpu/Debug/02.Exam_Preparation.pdb

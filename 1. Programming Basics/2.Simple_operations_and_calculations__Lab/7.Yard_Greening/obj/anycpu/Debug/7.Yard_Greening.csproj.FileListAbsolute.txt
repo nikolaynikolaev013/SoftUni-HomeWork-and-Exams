@@ -1,0 +1,4 @@
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/7.Yard_Greening/bin/Debug/7.Yard_Greening.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/7.Yard_Greening/bin/Debug/7.Yard_Greening.pdb
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/7.Yard_Greening/obj/anycpu/Debug/7.Yard_Greening.exe
+/Users/nikolaynikolaev/SoftUni/1. Programming Basics/2.Simple_operations_and_calculations__Lab/7.Yard_Greening/obj/anycpu/Debug/7.Yard_Greening.pdb

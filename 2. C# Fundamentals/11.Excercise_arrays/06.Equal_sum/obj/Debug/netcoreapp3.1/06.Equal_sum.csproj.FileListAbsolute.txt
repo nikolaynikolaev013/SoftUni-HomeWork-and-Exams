@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/06.Equal_sum/bin/Debug/netcoreapp3.1/06.Equal_sum.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/06.Equal_sum/bin/Debug/netcoreapp3.1/06.Equal_sum.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/06.Equal_sum/bin/Debug/netcoreapp3.1/06.Equal_sum.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/06.Equal_sum/bin/Debug/netcoreapp3.1/06.Equal_sum.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/06.Equal_sum/bin/Debug/netcoreapp3.1/06.Equal_sum.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/06.Equal_sum/obj/Debug/netcoreapp3.1/06.Equal_sum.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/06.Equal_sum/obj/Debug/netcoreapp3.1/06.Equal_sum.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/06.Equal_sum/obj/Debug/netcoreapp3.1/06.Equal_sum.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/06.Equal_sum/obj/Debug/netcoreapp3.1/06.Equal_sum.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/06.Equal_sum/obj/Debug/netcoreapp3.1/06.Equal_sum.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/11.Excercise_arrays/06.Equal_sum/obj/Debug/netcoreapp3.1/06.Equal_sum.genruntimeconfig.cache

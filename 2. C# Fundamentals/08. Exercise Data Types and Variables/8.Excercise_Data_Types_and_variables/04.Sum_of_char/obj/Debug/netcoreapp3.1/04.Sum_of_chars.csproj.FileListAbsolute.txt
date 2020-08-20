@@ -1,0 +1,11 @@
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/04.Sum_of_char/bin/Debug/netcoreapp3.1/04.Sum_of_chars.deps.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/04.Sum_of_char/bin/Debug/netcoreapp3.1/04.Sum_of_chars.runtimeconfig.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/04.Sum_of_char/bin/Debug/netcoreapp3.1/04.Sum_of_chars.runtimeconfig.dev.json
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/04.Sum_of_char/bin/Debug/netcoreapp3.1/04.Sum_of_chars.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/04.Sum_of_char/bin/Debug/netcoreapp3.1/04.Sum_of_chars.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/04.Sum_of_char/obj/Debug/netcoreapp3.1/04.Sum_of_chars.AssemblyInfoInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/04.Sum_of_char/obj/Debug/netcoreapp3.1/04.Sum_of_chars.AssemblyInfo.cs
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/04.Sum_of_char/obj/Debug/netcoreapp3.1/04.Sum_of_chars.csproj.CoreCompileInputs.cache
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/04.Sum_of_char/obj/Debug/netcoreapp3.1/04.Sum_of_chars.dll
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/04.Sum_of_char/obj/Debug/netcoreapp3.1/04.Sum_of_chars.pdb
+/Users/nikolaynikolaev/SoftUni/2. C# Fundamentals/08. Exercise Data Types and Variables/8.Excercise_Data_Types_and_variables/04.Sum_of_char/obj/Debug/netcoreapp3.1/04.Sum_of_chars.genruntimeconfig.cache

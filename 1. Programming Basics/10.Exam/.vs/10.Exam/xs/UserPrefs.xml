@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8EFD59BE-F8E5-4A87-BC5C-082934ACB57B}|Default">
+  <MonoDevelop.Ide.ItemProperties.01.Fishland PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.Division__Without__Remainder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.Math_Puzzle/Program.cs">
+    <Files>
+      <File FileName="10.Exam/Program.cs" Line="17" Column="37" />
+      <File FileName="02.Godzlla_vs_Kong/Program.cs" Line="24" Column="13" />
+      <File FileName="03.Computer_Room/Program.cs" Line="54" Column="22" />
+      <File FileName="04.Division_Without_Remainder/Program.cs" Line="44" Column="1" />
+      <File FileName="05.OWn_Business/Program.cs" Line="26" Column="18" />
+      <File FileName="06.Math_Puzzle/Program.cs" Line="15" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="10.Exam" expanded="True">
+            <Node name="06.Math_Puzzle" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.05.Own__Business PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.06.Math__Puzzle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.Computer__Room PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02.Godzlla__vs__Kong PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
