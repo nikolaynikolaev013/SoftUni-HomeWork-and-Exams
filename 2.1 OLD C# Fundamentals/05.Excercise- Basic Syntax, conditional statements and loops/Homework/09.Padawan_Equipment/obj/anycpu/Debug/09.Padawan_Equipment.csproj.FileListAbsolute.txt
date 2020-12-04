@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/09.Padawan_Equipment/bin/Debug/09.Padawan_Equipment.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/09.Padawan_Equipment/bin/Debug/09.Padawan_Equipment.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/09.Padawan_Equipment/obj/anycpu/Debug/09.Padawan_Equipment.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/09.Padawan_Equipment/obj/anycpu/Debug/09.Padawan_Equipment.pdb

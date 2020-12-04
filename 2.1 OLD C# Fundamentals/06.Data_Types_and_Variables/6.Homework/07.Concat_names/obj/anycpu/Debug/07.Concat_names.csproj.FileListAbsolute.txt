@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/07.Concat_names/bin/Debug/07.Concat_names.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/07.Concat_names/bin/Debug/07.Concat_names.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/07.Concat_names/obj/anycpu/Debug/07.Concat_names.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/07.Concat_names/obj/anycpu/Debug/07.Concat_names.pdb

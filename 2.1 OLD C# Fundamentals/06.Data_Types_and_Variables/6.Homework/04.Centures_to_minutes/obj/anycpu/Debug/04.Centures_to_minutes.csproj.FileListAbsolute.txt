@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/04.Centures_to_minutes/bin/Debug/04.Centures_to_minutes.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/04.Centures_to_minutes/bin/Debug/04.Centures_to_minutes.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/04.Centures_to_minutes/obj/anycpu/Debug/04.Centures_to_minutes.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/04.Centures_to_minutes/obj/anycpu/Debug/04.Centures_to_minutes.pdb

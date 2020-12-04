@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/06.Foreigh_Languages_TODO/bin/Debug/06.Foreigh_Languages_TODO.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/06.Foreigh_Languages_TODO/bin/Debug/06.Foreigh_Languages_TODO.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/06.Foreigh_Languages_TODO/obj/anycpu/Debug/06.Foreigh_Languages_TODO.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/06.Foreigh_Languages_TODO/obj/anycpu/Debug/06.Foreigh_Languages_TODO.pdb

@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/05.Login/bin/Debug/05.Login.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/05.Login/bin/Debug/05.Login.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/05.Login/obj/anycpu/Debug/05.Login.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/05.Login/obj/anycpu/Debug/05.Login.pdb

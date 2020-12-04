@@ -1,5 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/02.Division/bin/Debug/02.Division.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/02.Division/bin/Debug/02.Division.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/02.Division/obj/anycpu/Debug/02.Division.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/02.Division/obj/anycpu/Debug/02.Division.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/02.Division/obj/anycpu/Debug/02.Division.csprojAssemblyReference.cache

@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/05.Special_Numbers/bin/Debug/05.Special_Numbers.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/05.Special_Numbers/bin/Debug/05.Special_Numbers.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/05.Special_Numbers/obj/anycpu/Debug/05.Special_Numbers.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/05.Special_Numbers/obj/anycpu/Debug/05.Special_Numbers.pdb

@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/03.Exact_sum_to_real_numbers/bin/Debug/03.Exact_sum_to_real_numbers.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/03.Exact_sum_to_real_numbers/bin/Debug/03.Exact_sum_to_real_numbers.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/03.Exact_sum_to_real_numbers/obj/anycpu/Debug/03.Exact_sum_to_real_numbers.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/03.Exact_sum_to_real_numbers/obj/anycpu/Debug/03.Exact_sum_to_real_numbers.pdb

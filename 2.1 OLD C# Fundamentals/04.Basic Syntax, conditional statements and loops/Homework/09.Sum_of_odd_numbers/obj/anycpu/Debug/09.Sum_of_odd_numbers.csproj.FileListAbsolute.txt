@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/09.Sum_of_odd_numbers/bin/Debug/09.Sum_of_odd_numbers.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/09.Sum_of_odd_numbers/bin/Debug/09.Sum_of_odd_numbers.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/09.Sum_of_odd_numbers/obj/anycpu/Debug/09.Sum_of_odd_numbers.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/09.Sum_of_odd_numbers/obj/anycpu/Debug/09.Sum_of_odd_numbers.pdb

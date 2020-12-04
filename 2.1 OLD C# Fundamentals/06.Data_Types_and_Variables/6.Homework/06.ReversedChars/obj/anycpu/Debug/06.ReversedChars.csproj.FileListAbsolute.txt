@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/06.ReversedChars/bin/Debug/06.ReversedChars.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/06.ReversedChars/bin/Debug/06.ReversedChars.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/06.ReversedChars/obj/anycpu/Debug/06.ReversedChars.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/06.ReversedChars/obj/anycpu/Debug/06.ReversedChars.pdb

@@ -8,7 +8,7 @@ namespace _04.Wild_Farm.Models.Animals.Birds
         private const string DefaultHenSound = "Cluck";
         private const double DefaultWeightGainForKG = 0.35;
 
-        private  List<string> defaultFavFood = new List<string> { "Everything" };
+        private  List<string> defaultFavFood = new List<string> { "Vegetable", "Fruit", "Meat", "Seeds" };
 
         public Hen(string name, double weight, double wingSize) : base(name, weight, wingSize)
         {

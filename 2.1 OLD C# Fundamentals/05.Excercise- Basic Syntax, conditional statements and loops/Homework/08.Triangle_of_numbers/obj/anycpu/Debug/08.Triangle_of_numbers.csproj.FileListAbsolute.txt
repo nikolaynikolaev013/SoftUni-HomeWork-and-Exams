@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/08.Triangle_of_numbers/bin/Debug/08.Triangle_of_numbers.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/08.Triangle_of_numbers/bin/Debug/08.Triangle_of_numbers.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/08.Triangle_of_numbers/obj/anycpu/Debug/08.Triangle_of_numbers.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/08.Triangle_of_numbers/obj/anycpu/Debug/08.Triangle_of_numbers.pdb

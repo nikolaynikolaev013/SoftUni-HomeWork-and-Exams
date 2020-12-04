@@ -1,5 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/02.Pounds_to_dollars/bin/Debug/02.Pounds_to_dollars.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/02.Pounds_to_dollars/bin/Debug/02.Pounds_to_dollars.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/02.Pounds_to_dollars/obj/anycpu/Debug/02.Pounds_to_dollars.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/02.Pounds_to_dollars/obj/anycpu/Debug/02.Pounds_to_dollars.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/02.Pounds_to_dollars/obj/anycpu/Debug/02.Pounds_to_dollars.csprojAssemblyReference.cache

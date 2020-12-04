@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/12.Refactor_Special_Numbers/bin/Debug/12.Refactor_Special_Numbers.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/12.Refactor_Special_Numbers/bin/Debug/12.Refactor_Special_Numbers.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/12.Refactor_Special_Numbers/obj/anycpu/Debug/12.Refactor_Special_Numbers.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/06.Data_Types_and_Variables/6.Homework/12.Refactor_Special_Numbers/obj/anycpu/Debug/12.Refactor_Special_Numbers.pdb

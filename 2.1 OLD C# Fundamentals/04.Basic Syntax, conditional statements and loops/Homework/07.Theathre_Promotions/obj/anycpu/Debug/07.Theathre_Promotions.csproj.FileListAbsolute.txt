@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/07.Theathre_Promotions/bin/Debug/07.Theathre_Promotions.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/07.Theathre_Promotions/bin/Debug/07.Theathre_Promotions.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/07.Theathre_Promotions/obj/anycpu/Debug/07.Theathre_Promotions.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/04.Basic Syntax, conditional statements and loops/Homework/07.Theathre_Promotions/obj/anycpu/Debug/07.Theathre_Promotions.pdb

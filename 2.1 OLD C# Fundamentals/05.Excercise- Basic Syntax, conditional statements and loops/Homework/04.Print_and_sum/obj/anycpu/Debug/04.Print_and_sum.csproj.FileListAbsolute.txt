@@ -1,4 +1,0 @@
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/04.Print_and_sum/bin/Debug/04.Print_and_sum.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/04.Print_and_sum/bin/Debug/04.Print_and_sum.pdb
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/04.Print_and_sum/obj/anycpu/Debug/04.Print_and_sum.exe
-/Users/nikolaynikolaev/SoftUni/2. OLD C# Fundamentals/05.Excercise- Basic Syntax, conditional statements and loops/Homework/04.Print_and_sum/obj/anycpu/Debug/04.Print_and_sum.pdb
